@@ -1,0 +1,6 @@
+1
+	Python交互模式写函数：
+	写完ctrl+D
+2
+	文件之间传递一个变量
+	from name.py import value

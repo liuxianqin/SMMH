@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<script>
+			function myFunction()
+			{
+				try{
+					var x=document.getElementById("demo").value;
+					if(x=="") throw "empty";
+					if(isNaN(x)) throw "not a number";
+					if(x>10) throw "too big";
+					if(x<5) throw "too small";
+				}
+				catch(err){
+					var y=document.getElementById("mess");
+					y.innerHTML="ERROR: "+err+'.';
+				}
+			}
+		</script>
+		<input id="demo" type="text">
+		<button type="button" onclick="myFunction()">INPUT</button>
+		<p  id="mess"></p>
+	</body>
+</html>
