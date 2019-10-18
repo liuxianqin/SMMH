@@ -64,6 +64,10 @@ public class Array<E> {
         return data[index];
     }
 
+    public E getLast(){
+        return get(size-1);
+    }
+
     // 修改index索引位置的元素为e
     void set(int index ,E e){
         if(index<0 || index >= size)

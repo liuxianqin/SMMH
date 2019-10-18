@@ -19,7 +19,7 @@ public class Main {
         // -classpath
         // /usr/local/jdk1.8.0_221/jre/lib/charsets.jar:/usr/local/jdk1.8.0_221/jre/lib/deploy.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/cldrdata.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/dnsns.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/jaccess.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/jfxrt.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/localedata.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/nashorn.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/sunec.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/sunjce_provider.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/sunpkcs11.jar:/usr/local/jdk1.8.0_221/jre/lib/ext/zipfs.jar:/usr/local/jdk1.8.0_221/jre/lib/javaws.jar:/usr/local/jdk1.8.0_221/jre/lib/jce.jar:/usr/local/jdk1.8.0_221/jre/lib/jfr.jar:/usr/local/jdk1.8.0_221/jre/lib/jfxswt.jar:/usr/local/jdk1.8.0_221/jre/lib/jsse.jar:/usr/local/jdk1.8.0_221/jre/lib/management-agent.jar:/usr/local/jdk1.8.0_221/jre/lib/plugin.jar:/usr/local/jdk1.8.0_221/jre/lib/resources.jar:/usr/local/jdk1.8.0_221/jre/lib/rt.jar:/home/user/IdeaProjects/Array/out/production/Array Main
 
-        Array arr = new Array(20);
+        Array<Integer> arr = new Array<>();
         for(int i=0;i<10;i++)
             arr.addLast(i);
         System.out.println(arr);
@@ -28,6 +28,11 @@ public class Main {
 
         arr.addFirst(-1);
 
+        System.out.println(arr);
+
+        arr.remove(3);
+        arr.remove(1);
+        arr.remove(5);
         System.out.println(arr);
     }
 }
