@@ -28,7 +28,7 @@ class Solution {
             if(prev.next.val == val){
                 ListNode delNode = prev.next;
                 prev.next = prev.next.next;
-                delNode = null;
+                delNode = null;                    //为什么 delNode.next = null
             }
             else
                 prev = prev.next;
