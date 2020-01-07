@@ -1,0 +1,788 @@
+{}
+{'code': '600397', 'name': '安源煤业', 'latest': '2.50', 'chg_pct': '10.13%', 'chg': '0.23', 'colume': '343798手', 'amount': '8395万', 'open': '2.35', 'hst_clost': '2.27', 'low': '2.30', 'high': '2.50'}
+{'code': '600223', 'name': '鲁商发展', 'latest': '6.16', 'chg_pct': '10.00%', 'chg': '0.56', 'colume': '489986手', 'amount': '29426万', 'open': '5.61', 'hst_clost': '5.60', 'low': '5.56', 'high': '6.16'}
+{'code': '603555', 'name': '贵人鸟', 'latest': '3.86', 'chg_pct': '9.97%', 'chg': '0.35', 'colume': '45490手', 'amount': '1719万', 'open': '3.68', 'hst_clost': '3.51', 'low': '3.65', 'high': '3.86'}
+{'code': '600358', 'name': '国旅联合', 'latest': '4.09', 'chg_pct': '9.95%', 'chg': '0.37', 'colume': '93288手', 'amount': '3739万', 'open': '3.76', 'hst_clost': '3.72', 'low': '3.69', 'high': '4.09'}
+{'code': '600143', 'name': '金发科技', 'latest': '7.10', 'chg_pct': '7.25%', 'chg': '0.48', 'colume': '705471手', 'amount': '50845万', 'open': '7.28', 'hst_clost': '6.62', 'low': '6.99', 'high': '7.28'}
+{'code': '603489', 'name': '八方股份', 'latest': '97.98', 'chg_pct': '6.35%', 'chg': '5.85', 'colume': '66247手', 'amount': '64793万', 'open': '97.00', 'hst_clost': '92.13', 'low': '96.15', 'high': '100.00'}
+{'code': '603556', 'name': '海兴电力', 'latest': '16.30', 'chg_pct': '5.98%', 'chg': '0.92', 'colume': '49182手', 'amount': '7843万', 'open': '15.32', 'hst_clost': '15.38', 'low': '15.32', 'high': '16.38'}
+{'code': '600614', 'name': '*ST鹏起', 'latest': '0.97', 'chg_pct': '5.44%', 'chg': '0.05', 'colume': '38292手', 'amount': '371万', 'open': '0.97', 'hst_clost': '0.92', 'low': '0.97', 'high': '0.97'}
+{'code': '600986', 'name': '科达股份', 'latest': '4.80', 'chg_pct': '5.26%', 'chg': '0.24', 'colume': '449694手', 'amount': '21305万', 'open': '4.53', 'hst_clost': '4.56', 'low': '4.53', 'high': '4.93'}
+{'code': '601258', 'name': '*ST庞大', 'latest': '1.20', 'chg_pct': '5.26%', 'chg': '0.06', 'colume': '340760手', 'amount': '4065万', 'open': '1.19', 'hst_clost': '1.14', 'low': '1.17', 'high': '1.20'}
+{'code': '601113', 'name': 'ST华鼎', 'latest': '3.39', 'chg_pct': '4.95%', 'chg': '0.16', 'colume': '105664手', 'amount': '3529万', 'open': '3.19', 'hst_clost': '3.23', 'low': '3.19', 'high': '3.39'}
+{'code': '600685', 'name': '中船防务', 'latest': '15.12', 'chg_pct': '4.71%', 'chg': '0.68', 'colume': '66576手', 'amount': '10029万', 'open': '14.62', 'hst_clost': '14.44', 'low': '14.52', 'high': '15.38'}
+{'code': '600796', 'name': '钱江生化', 'latest': '5.21', 'chg_pct': '4.62%', 'chg': '0.23', 'colume': '21895手', 'amount': '1121万', 'open': '4.93', 'hst_clost': '4.98', 'low': '4.93', 'high': '5.29'}
+{'code': '600800', 'name': '天津磁卡', 'latest': '5.53', 'chg_pct': '4.54%', 'chg': '0.24', 'colume': '60186手', 'amount': '3341万', 'open': '5.44', 'hst_clost': '5.29', 'low': '5.42', 'high': '5.66'}
+{'code': '603996', 'name': 'ST中新', 'latest': '4.82', 'chg_pct': '4.33%', 'chg': '0.20', 'colume': '15658手', 'amount': '745万', 'open': '4.63', 'hst_clost': '4.62', 'low': '4.58', 'high': '4.85'}
+{'code': '600485', 'name': '*ST信威', 'latest': '1.21', 'chg_pct': '4.31%', 'chg': '0.05', 'colume': '312295手', 'amount': '3718万', 'open': '1.16', 'hst_clost': '1.16', 'low': '1.15', 'high': '1.22'}
+{'code': '603506', 'name': '南都物业', 'latest': '23.32', 'chg_pct': '4.11%', 'chg': '0.92', 'colume': '13911手', 'amount': '3168万', 'open': '22.69', 'hst_clost': '22.40', 'low': '22.22', 'high': '23.39'}
+{'code': '603318', 'name': '派思股份', 'latest': '12.77', 'chg_pct': '3.99%', 'chg': '0.49', 'colume': '113159手', 'amount': '14117万', 'open': '12.29', 'hst_clost': '12.28', 'low': '12.29', 'high': '12.79'}
+{'code': '601388', 'name': '怡球资源', 'latest': '1.83', 'chg_pct': '3.98%', 'chg': '0.07', 'colume': '192428手', 'amount': '3516万', 'open': '1.76', 'hst_clost': '1.76', 'low': '1.75', 'high': '1.88'}
+{'code': '600981', 'name': '汇鸿集团', 'latest': '3.67', 'chg_pct': '3.97%', 'chg': '0.14', 'colume': '36831手', 'amount': '1342万', 'open': '3.60', 'hst_clost': '3.53', 'low': '3.58', 'high': '3.70'}
+{'code': '600855', 'name': '航天长峰', 'latest': '13.17', 'chg_pct': '3.95%', 'chg': '0.50', 'colume': '71192手', 'amount': '9339万', 'open': '12.69', 'hst_clost': '12.67', 'low': '12.69', 'high': '13.40'}
+{'code': '603976', 'name': '正川股份', 'latest': '32.83', 'chg_pct': '3.89%', 'chg': '1.23', 'colume': '40945手', 'amount': '13372万', 'open': '31.81', 'hst_clost': '31.60', 'low': '31.61', 'high': '33.39'}
+{'code': '600526', 'name': '*ST菲达', 'latest': '5.09', 'chg_pct': '3.88%', 'chg': '0.19', 'colume': '10221手', 'amount': '511万', 'open': '4.90', 'hst_clost': '4.90', 'low': '4.88', 'high': '5.10'}
+{'code': '600747', 'name': '退市大控', 'latest': '0.27', 'chg_pct': '3.85%', 'chg': '0.01', 'colume': '297523手', 'amount': '792万', 'open': '0.26', 'hst_clost': '0.26', 'low': '0.25', 'high': '0.28'}
+{'code': '603013', 'name': '亚普股份', 'latest': '16.89', 'chg_pct': '3.75%', 'chg': '0.61', 'colume': '58440手', 'amount': '9968万', 'open': '16.02', 'hst_clost': '16.28', 'low': '16.01', 'high': '17.85'}
+{'code': '600567', 'name': '山鹰纸业', 'latest': '3.33', 'chg_pct': '3.74%', 'chg': '0.12', 'colume': '589462手', 'amount': '19461万', 'open': '3.23', 'hst_clost': '3.21', 'low': '3.23', 'high': '3.34'}
+{'code': '603093', 'name': '南华期货', 'latest': '23.87', 'chg_pct': '3.69%', 'chg': '0.85', 'colume': '79633手', 'amount': '18654万', 'open': '22.77', 'hst_clost': '23.02', 'low': '22.70', 'high': '23.95'}
+{'code': '603590', 'name': '康辰药业', 'latest': '36.44', 'chg_pct': '3.67%', 'chg': '1.29', 'colume': '22835手', 'amount': '8318万', 'open': '36.01', 'hst_clost': '35.15', 'low': '36.00', 'high': '36.88'}
+{'code': '603690', 'name': '至纯科技', 'latest': '25.87', 'chg_pct': '3.52%', 'chg': '0.88', 'colume': '50781手', 'amount': '13082万', 'open': '24.95', 'hst_clost': '24.99', 'low': '24.79', 'high': '26.29'}
+{'code': '601872', 'name': '招商轮船', 'latest': '6.19', 'chg_pct': '3.51%', 'chg': '0.21', 'colume': '305591手', 'amount': '18879万', 'open': '6.18', 'hst_clost': '5.98', 'low': '6.08', 'high': '6.26'}
+{'code': '603005', 'name': '晶方科技', 'latest': '26.15', 'chg_pct': '3.28%', 'chg': '0.83', 'colume': '42300手', 'amount': '10913万', 'open': '25.13', 'hst_clost': '25.32', 'low': '24.92', 'high': '26.27'}
+{'code': '600268', 'name': '国电南自', 'latest': '4.76', 'chg_pct': '3.25%', 'chg': '0.15', 'colume': '32961手', 'amount': '1556万', 'open': '4.65', 'hst_clost': '4.61', 'low': '4.63', 'high': '4.77'}
+{'code': '600990', 'name': '四创电子', 'latest': '43.85', 'chg_pct': '3.25%', 'chg': '1.38', 'colume': '7672手', 'amount': '3310万', 'open': '42.34', 'hst_clost': '42.47', 'low': '42.25', 'high': '43.87'}
+{'code': '600886', 'name': '国投电力', 'latest': '8.30', 'chg_pct': '3.23%', 'chg': '0.26', 'colume': '164269手', 'amount': '13486万', 'open': '8.06', 'hst_clost': '8.04', 'low': '8.05', 'high': '8.33'}
+{'code': '600267', 'name': '海正药业', 'latest': '11.18', 'chg_pct': '3.23%', 'chg': '0.35', 'colume': '197943手', 'amount': '22022万', 'open': '10.86', 'hst_clost': '10.83', 'low': '10.82', 'high': '11.27'}
+{'code': '600638', 'name': '新黄浦', 'latest': '7.13', 'chg_pct': '3.18%', 'chg': '0.22', 'colume': '4188手', 'amount': '292万', 'open': '6.85', 'hst_clost': '6.91', 'low': '6.84', 'high': '7.14'}
+{'code': '600075', 'name': '新疆天业', 'latest': '4.88', 'chg_pct': '3.17%', 'chg': '0.15', 'colume': '49284手', 'amount': '2408万', 'open': '4.80', 'hst_clost': '4.73', 'low': '4.80', 'high': '5.05'}
+{'code': '600462', 'name': '*ST九有', 'latest': '1.64', 'chg_pct': '3.15%', 'chg': '0.05', 'colume': '265495手', 'amount': '4333万', 'open': '1.60', 'hst_clost': '1.59', 'low': '1.54', 'high': '1.67'}
+{'code': '600477', 'name': '杭萧钢构', 'latest': '2.69', 'chg_pct': '3.07%', 'chg': '0.08', 'colume': '65847手', 'amount': '1753万', 'open': '2.60', 'hst_clost': '2.61', 'low': '2.58', 'high': '2.70'}
+{'code': '600759', 'name': '洲际油气', 'latest': '2.75', 'chg_pct': '3.00%', 'chg': '0.08', 'colume': '100505手', 'amount': '2756万', 'open': '2.68', 'hst_clost': '2.67', 'low': '2.68', 'high': '2.79'}
+{'code': '603110', 'name': '东方材料', 'latest': '15.28', 'chg_pct': '2.90%', 'chg': '0.43', 'colume': '8443手', 'amount': '1279万', 'open': '14.94', 'hst_clost': '14.85', 'low': '14.66', 'high': '15.30'}
+{'code': '601099', 'name': '太平洋', 'latest': '3.27', 'chg_pct': '2.83%', 'chg': '0.09', 'colume': '579806手', 'amount': '18825万', 'open': '3.19', 'hst_clost': '3.18', 'low': '3.18', 'high': '3.28'}
+{'code': '600150', 'name': '中国船舶', 'latest': '20.33', 'chg_pct': '2.78%', 'chg': '0.55', 'colume': '74048手', 'amount': '15034万', 'open': '19.80', 'hst_clost': '19.78', 'low': '19.80', 'high': '20.57'}
+{'code': '600775', 'name': '南京熊猫', 'latest': '9.81', 'chg_pct': '2.72%', 'chg': '0.26', 'colume': '58262手', 'amount': '5687万', 'open': '9.48', 'hst_clost': '9.55', 'low': '9.48', 'high': '9.92'}
+{'code': '601890', 'name': '亚星锚链', 'latest': '5.67', 'chg_pct': '2.72%', 'chg': '0.15', 'colume': '87696手', 'amount': '4974万', 'open': '5.52', 'hst_clost': '5.52', 'low': '5.48', 'high': '5.78'}
+{'code': '600307', 'name': '酒钢宏兴', 'latest': '1.92', 'chg_pct': '2.67%', 'chg': '0.05', 'colume': '270142手', 'amount': '5146万', 'open': '1.87', 'hst_clost': '1.87', 'low': '1.86', 'high': '1.93'}
+{'code': '603197', 'name': '保隆科技', 'latest': '29.30', 'chg_pct': '2.63%', 'chg': '0.75', 'colume': '30782手', 'amount': '8956万', 'open': '28.02', 'hst_clost': '28.55', 'low': '28.00', 'high': '29.65'}
+{'code': '603179', 'name': '新泉股份', 'latest': '17.69', 'chg_pct': '2.61%', 'chg': '0.45', 'colume': '27836手', 'amount': '4931万', 'open': '17.08', 'hst_clost': '17.24', 'low': '17.01', 'high': '18.20'}
+{'code': '600306', 'name': '商业城', 'latest': '6.10', 'chg_pct': '2.52%', 'chg': '0.15', 'colume': '73596手', 'amount': '4685万', 'open': '6.40', 'hst_clost': '5.95', 'low': '6.00', 'high': '6.55'}
+{'code': '603348', 'name': '文灿股份', 'latest': '17.08', 'chg_pct': '2.46%', 'chg': '0.41', 'colume': '14509手', 'amount': '2471万', 'open': '16.74', 'hst_clost': '16.67', 'low': '16.65', 'high': '17.17'}
+{}
+{}
+{'code': '600896', 'name': '览海投资', 'latest': '4.27', 'chg_pct': '2.40%', 'chg': '0.10', 'colume': '29112手', 'amount': '1240万', 'open': '4.19', 'hst_clost': '4.17', 'low': '4.16', 'high': '4.32'}
+{'code': '603987', 'name': '康德莱', 'latest': '7.78', 'chg_pct': '2.37%', 'chg': '0.18', 'colume': '12101手', 'amount': '931万', 'open': '7.58', 'hst_clost': '7.60', 'low': '7.53', 'high': '7.81'}
+{'code': '600289', 'name': '*ST信通', 'latest': '2.60', 'chg_pct': '2.36%', 'chg': '0.06', 'colume': '13019手', 'amount': '339万', 'open': '2.59', 'hst_clost': '2.54', 'low': '2.57', 'high': '2.66'}
+{'code': '600246', 'name': '万通地产', 'latest': '4.09', 'chg_pct': '2.25%', 'chg': '0.09', 'colume': '7847手', 'amount': '317万', 'open': '3.99', 'hst_clost': '4.00', 'low': '3.96', 'high': '4.11'}
+{'code': '603040', 'name': '新坐标', 'latest': '32.45', 'chg_pct': '2.24%', 'chg': '0.71', 'colume': '2923手', 'amount': '943万', 'open': '31.95', 'hst_clost': '31.74', 'low': '31.69', 'high': '32.56'}
+{'code': '601777', 'name': '力帆股份', 'latest': '2.84', 'chg_pct': '2.16%', 'chg': '0.06', 'colume': '126464手', 'amount': '3542万', 'open': '2.75', 'hst_clost': '2.78', 'low': '2.70', 'high': '2.87'}
+{'code': '600391', 'name': '航发科技', 'latest': '13.83', 'chg_pct': '2.14%', 'chg': '0.29', 'colume': '13046手', 'amount': '1795万', 'open': '13.56', 'hst_clost': '13.54', 'low': '13.51', 'high': '13.89'}
+{'code': '603177', 'name': '德创环保', 'latest': '10.03', 'chg_pct': '2.14%', 'chg': '0.21', 'colume': '7263手', 'amount': '727万', 'open': '9.94', 'hst_clost': '9.82', 'low': '9.84', 'high': '10.12'}
+{'code': '603157', 'name': '拉夏贝尔', 'latest': '4.37', 'chg_pct': '2.10%', 'chg': '0.09', 'colume': '11933手', 'amount': '517万', 'open': '4.28', 'hst_clost': '4.28', 'low': '4.26', 'high': '4.38'}
+{'code': '600797', 'name': '浙大网新', 'latest': '10.87', 'chg_pct': '2.07%', 'chg': '0.22', 'colume': '298641手', 'amount': '32190万', 'open': '10.53', 'hst_clost': '10.65', 'low': '10.47', 'high': '11.03'}
+{'code': '600242', 'name': '中昌数据', 'latest': '7.45', 'chg_pct': '2.06%', 'chg': '0.15', 'colume': '61158手', 'amount': '4573万', 'open': '7.34', 'hst_clost': '7.30', 'low': '7.31', 'high': '7.59'}
+{'code': '603429', 'name': '集友股份', 'latest': '37.30', 'chg_pct': '2.02%', 'chg': '0.74', 'colume': '10173手', 'amount': '3801万', 'open': '36.95', 'hst_clost': '36.56', 'low': '36.12', 'high': '38.00'}
+{'code': '603766', 'name': '隆鑫通用', 'latest': '3.56', 'chg_pct': '2.01%', 'chg': '0.07', 'colume': '46834手', 'amount': '1653万', 'open': '3.49', 'hst_clost': '3.49', 'low': '3.46', 'high': '3.56'}
+{'code': '600027', 'name': '华电国际', 'latest': '3.58', 'chg_pct': '1.99%', 'chg': '0.07', 'colume': '160168手', 'amount': '5712万', 'open': '3.50', 'hst_clost': '3.51', 'low': '3.50', 'high': '3.61'}
+{'code': '600255', 'name': '梦舟股份', 'latest': '1.56', 'chg_pct': '1.96%', 'chg': '0.03', 'colume': '112436手', 'amount': '1720万', 'open': '1.52', 'hst_clost': '1.53', 'low': '1.50', 'high': '1.56'}
+{'code': '603859', 'name': '能科股份', 'latest': '23.50', 'chg_pct': '1.95%', 'chg': '0.45', 'colume': '4805手', 'amount': '1122万', 'open': '23.29', 'hst_clost': '23.05', 'low': '23.22', 'high': '23.50'}
+{'code': '600116', 'name': '三峡水利', 'latest': '7.84', 'chg_pct': '1.95%', 'chg': '0.15', 'colume': '29100手', 'amount': '2261万', 'open': '7.69', 'hst_clost': '7.69', 'low': '7.65', 'high': '7.88'}
+{'code': '603313', 'name': '梦百合', 'latest': '18.35', 'chg_pct': '1.94%', 'chg': '0.35', 'colume': '17382手', 'amount': '3157万', 'open': '17.85', 'hst_clost': '18.00', 'low': '17.80', 'high': '18.35'}
+{'code': '601989', 'name': '中国重工', 'latest': '5.33', 'chg_pct': '1.91%', 'chg': '0.10', 'colume': '257437手', 'amount': '13692万', 'open': '5.23', 'hst_clost': '5.23', 'low': '5.21', 'high': '5.37'}
+{'code': '603658', 'name': '安图生物', 'latest': '111.47', 'chg_pct': '1.89%', 'chg': '2.07', 'colume': '5493手', 'amount': '6058万', 'open': '109.59', 'hst_clost': '109.40', 'low': '108.50', 'high': '111.68'}
+{'code': '603335', 'name': '迪生力', 'latest': '4.89', 'chg_pct': '1.88%', 'chg': '0.09', 'colume': '19210手', 'amount': '943万', 'open': '4.87', 'hst_clost': '4.80', 'low': '4.82', 'high': '4.99'}
+{'code': '603336', 'name': '宏辉果蔬', 'latest': '14.41', 'chg_pct': '1.84%', 'chg': '0.26', 'colume': '89526手', 'amount': '13010万', 'open': '14.50', 'hst_clost': '14.15', 'low': '14.27', 'high': '14.78'}
+{'code': '600280', 'name': '中央商场', 'latest': '2.78', 'chg_pct': '1.83%', 'chg': '0.05', 'colume': '17111手', 'amount': '472万', 'open': '2.73', 'hst_clost': '2.73', 'low': '2.72', 'high': '2.78'}
+{'code': '603321', 'name': '梅轮电梯', 'latest': '8.40', 'chg_pct': '1.82%', 'chg': '0.15', 'colume': '30093手', 'amount': '2527万', 'open': '8.18', 'hst_clost': '8.25', 'low': '8.18', 'high': '8.52'}
+{'code': '603886', 'name': '元祖股份', 'latest': '18.58', 'chg_pct': '1.81%', 'chg': '0.33', 'colume': '24766手', 'amount': '4582万', 'open': '18.27', 'hst_clost': '18.25', 'low': '18.15', 'high': '18.67'}
+{'code': '600208', 'name': '新湖中宝', 'latest': '3.97', 'chg_pct': '1.80%', 'chg': '0.07', 'colume': '1007943手', 'amount': '39722万', 'open': '3.87', 'hst_clost': '3.90', 'low': '3.83', 'high': '4.01'}
+{'code': '603619', 'name': '中曼石油', 'latest': '13.78', 'chg_pct': '1.77%', 'chg': '0.24', 'colume': '18395手', 'amount': '2533万', 'open': '13.66', 'hst_clost': '13.54', 'low': '13.58', 'high': '13.89'}
+{'code': '600101', 'name': '明星电力', 'latest': '7.11', 'chg_pct': '1.72%', 'chg': '0.12', 'colume': '24283手', 'amount': '1718万', 'open': '7.03', 'hst_clost': '6.99', 'low': '6.98', 'high': '7.15'}
+{'code': '603444', 'name': '吉比特', 'latest': '315.48', 'chg_pct': '1.72%', 'chg': '5.32', 'colume': '4390手', 'amount': '13792万', 'open': '316.35', 'hst_clost': '310.16', 'low': '310.16', 'high': '316.99'}
+{'code': '600302', 'name': '标准股份', 'latest': '4.24', 'chg_pct': '1.68%', 'chg': '0.07', 'colume': '9144手', 'amount': '387万', 'open': '4.17', 'hst_clost': '4.17', 'low': '4.16', 'high': '4.29'}
+{'code': '600130', 'name': '波导股份', 'latest': '3.66', 'chg_pct': '1.67%', 'chg': '0.06', 'colume': '64397手', 'amount': '2333万', 'open': '3.58', 'hst_clost': '3.60', 'low': '3.55', 'high': '3.70'}
+{'code': '600769', 'name': '祥龙电业', 'latest': '5.52', 'chg_pct': '1.66%', 'chg': '0.09', 'colume': '5551手', 'amount': '304万', 'open': '5.43', 'hst_clost': '5.43', 'low': '5.36', 'high': '5.55'}
+{'code': '600262', 'name': '北方股份', 'latest': '18.60', 'chg_pct': '1.64%', 'chg': '0.30', 'colume': '1745手', 'amount': '324万', 'open': '18.80', 'hst_clost': '18.30', 'low': '18.21', 'high': '18.80'}
+{'code': '601811', 'name': '新华文轩', 'latest': '12.50', 'chg_pct': '1.63%', 'chg': '0.20', 'colume': '9467手', 'amount': '1174万', 'open': '12.38', 'hst_clost': '12.30', 'low': '12.20', 'high': '12.60'}
+{'code': '600491', 'name': '龙元建设', 'latest': '7.54', 'chg_pct': '1.62%', 'chg': '0.12', 'colume': '47529手', 'amount': '3564万', 'open': '7.48', 'hst_clost': '7.42', 'low': '7.37', 'high': '7.55'}
+{'code': '603863', 'name': '松炀资源', 'latest': '16.35', 'chg_pct': '1.62%', 'chg': '0.26', 'colume': '16295手', 'amount': '2654万', 'open': '16.20', 'hst_clost': '16.09', 'low': '16.06', 'high': '16.45'}
+{'code': '600298', 'name': '安琪酵母', 'latest': '30.98', 'chg_pct': '1.61%', 'chg': '0.49', 'colume': '18365手', 'amount': '5662万', 'open': '30.60', 'hst_clost': '30.49', 'low': '30.50', 'high': '31.10'}
+{'code': '600285', 'name': '羚锐制药', 'latest': '10.85', 'chg_pct': '1.59%', 'chg': '0.17', 'colume': '71772手', 'amount': '7767万', 'open': '10.60', 'hst_clost': '10.68', 'low': '10.58', 'high': '10.98'}
+{'code': '600862', 'name': '中航高科', 'latest': '9.66', 'chg_pct': '1.58%', 'chg': '0.15', 'colume': '29491手', 'amount': '2830万', 'open': '9.47', 'hst_clost': '9.51', 'low': '9.42', 'high': '9.68'}
+{'code': '603712', 'name': '七一二', 'latest': '20.76', 'chg_pct': '1.52%', 'chg': '0.31', 'colume': '19212手', 'amount': '3975万', 'open': '20.41', 'hst_clost': '20.45', 'low': '20.37', 'high': '20.95'}
+{'code': '600378', 'name': '昊华科技', 'latest': '16.91', 'chg_pct': '1.50%', 'chg': '0.25', 'colume': '4916手', 'amount': '823万', 'open': '16.66', 'hst_clost': '16.66', 'low': '16.50', 'high': '16.93'}
+{'code': '600501', 'name': '航天晨光', 'latest': '7.44', 'chg_pct': '1.50%', 'chg': '0.11', 'colume': '7946手', 'amount': '589万', 'open': '7.37', 'hst_clost': '7.33', 'low': '7.33', 'high': '7.46'}
+{'code': '600343', 'name': '航天动力', 'latest': '8.80', 'chg_pct': '1.50%', 'chg': '0.13', 'colume': '14994手', 'amount': '1316万', 'open': '8.71', 'hst_clost': '8.67', 'low': '8.64', 'high': '8.85'}
+{'code': '601019', 'name': '山东出版', 'latest': '6.77', 'chg_pct': '1.50%', 'chg': '0.10', 'colume': '9415手', 'amount': '633万', 'open': '6.67', 'hst_clost': '6.67', 'low': '6.65', 'high': '6.80'}
+{'code': '603063', 'name': '禾望电气', 'latest': '8.15', 'chg_pct': '1.49%', 'chg': '0.12', 'colume': '7492手', 'amount': '616万', 'open': '7.99', 'hst_clost': '8.03', 'low': '7.99', 'high': '8.45'}
+{'code': '601138', 'name': '工业富联', 'latest': '16.45', 'chg_pct': '1.48%', 'chg': '0.24', 'colume': '216342手', 'amount': '35369万', 'open': '16.05', 'hst_clost': '16.21', 'low': '15.95', 'high': '16.53'}
+{'code': '600060', 'name': '海信电器', 'latest': '9.00', 'chg_pct': '1.47%', 'chg': '0.13', 'colume': '25770手', 'amount': '2307万', 'open': '8.90', 'hst_clost': '8.87', 'low': '8.87', 'high': '9.02'}
+{'code': '600791', 'name': '京能置业', 'latest': '3.48', 'chg_pct': '1.46%', 'chg': '0.05', 'colume': '6167手', 'amount': '213万', 'open': '3.41', 'hst_clost': '3.43', 'low': '3.41', 'high': '3.48'}
+{'code': '601899', 'name': '紫金矿业', 'latest': '3.49', 'chg_pct': '1.45%', 'chg': '0.05', 'colume': '860099手', 'amount': '30039万', 'open': '3.46', 'hst_clost': '3.44', 'low': '3.46', 'high': '3.53'}
+{'code': '600724', 'name': '宁波富达', 'latest': '3.55', 'chg_pct': '1.43%', 'chg': '0.05', 'colume': '8667手', 'amount': '307万', 'open': '3.47', 'hst_clost': '3.50', 'low': '3.47', 'high': '3.61'}
+{}
+{}
+{'code': '603800', 'name': '道森股份', 'latest': '12.11', 'chg_pct': '1.42%', 'chg': '0.17', 'colume': '4510手', 'amount': '546万', 'open': '11.98', 'hst_clost': '11.94', 'low': '11.98', 'high': '12.32'}
+{'code': '600220', 'name': '江苏阳光', 'latest': '2.14', 'chg_pct': '1.42%', 'chg': '0.03', 'colume': '19441手', 'amount': '414万', 'open': '2.11', 'hst_clost': '2.11', 'low': '2.11', 'high': '2.14'}
+{'code': '601958', 'name': '金钼股份', 'latest': '7.24', 'chg_pct': '1.40%', 'chg': '0.10', 'colume': '34188手', 'amount': '2460万', 'open': '7.10', 'hst_clost': '7.14', 'low': '7.10', 'high': '7.27'}
+{'code': '603866', 'name': '桃李面包', 'latest': '48.71', 'chg_pct': '1.40%', 'chg': '0.67', 'colume': '3810手', 'amount': '1839万', 'open': '48.04', 'hst_clost': '48.04', 'low': '47.78', 'high': '48.79'}
+{'code': '603797', 'name': '联泰环保', 'latest': '11.04', 'chg_pct': '1.38%', 'chg': '0.15', 'colume': '8007手', 'amount': '876万', 'open': '10.86', 'hst_clost': '10.89', 'low': '10.86', 'high': '11.05'}
+{'code': '601606', 'name': '长城军工', 'latest': '11.81', 'chg_pct': '1.37%', 'chg': '0.16', 'colume': '23976手', 'amount': '2824万', 'open': '11.56', 'hst_clost': '11.65', 'low': '11.54', 'high': '11.90'}
+{'code': '603006', 'name': '联明股份', 'latest': '9.62', 'chg_pct': '1.37%', 'chg': '0.13', 'colume': '3511手', 'amount': '336万', 'open': '9.44', 'hst_clost': '9.49', 'low': '9.44', 'high': '9.65'}
+{'code': '600121', 'name': '郑州煤电', 'latest': '2.27', 'chg_pct': '1.34%', 'chg': '0.03', 'colume': '30394手', 'amount': '683万', 'open': '2.22', 'hst_clost': '2.24', 'low': '2.20', 'high': '2.28'}
+{'code': '600764', 'name': '中国海防', 'latest': '27.30', 'chg_pct': '1.34%', 'chg': '0.36', 'colume': '5764手', 'amount': '1583万', 'open': '26.94', 'hst_clost': '26.94', 'low': '26.86', 'high': '27.80'}
+{'code': '603466', 'name': '风语筑', 'latest': '13.69', 'chg_pct': '1.33%', 'chg': '0.18', 'colume': '12568手', 'amount': '1709万', 'open': '13.50', 'hst_clost': '13.51', 'low': '13.38', 'high': '13.73'}
+{'code': '603267', 'name': '鸿远电子', 'latest': '48.73', 'chg_pct': '1.33%', 'chg': '0.64', 'colume': '8204手', 'amount': '3952万', 'open': '48.08', 'hst_clost': '48.09', 'low': '47.52', 'high': '48.79'}
+{'code': '603328', 'name': '依顿电子', 'latest': '10.01', 'chg_pct': '1.32%', 'chg': '0.13', 'colume': '31886手', 'amount': '3156万', 'open': '9.89', 'hst_clost': '9.88', 'low': '9.77', 'high': '10.03'}
+{'code': '600971', 'name': '恒源煤电', 'latest': '5.42', 'chg_pct': '1.31%', 'chg': '0.07', 'colume': '21120手', 'amount': '1136万', 'open': '5.35', 'hst_clost': '5.35', 'low': '5.29', 'high': '5.44'}
+{'code': '600293', 'name': '三峡新材', 'latest': '3.11', 'chg_pct': '1.30%', 'chg': '0.04', 'colume': '16844手', 'amount': '520万', 'open': '3.09', 'hst_clost': '3.07', 'low': '3.06', 'high': '3.11'}
+{'code': '603598', 'name': '引力传媒', 'latest': '7.79', 'chg_pct': '1.30%', 'chg': '0.10', 'colume': '5621手', 'amount': '435万', 'open': '7.69', 'hst_clost': '7.69', 'low': '7.65', 'high': '7.84'}
+{'code': '600395', 'name': '盘江股份', 'latest': '5.51', 'chg_pct': '1.29%', 'chg': '0.07', 'colume': '45358手', 'amount': '2483万', 'open': '5.40', 'hst_clost': '5.44', 'low': '5.40', 'high': '5.53'}
+{'code': '603933', 'name': '睿能科技', 'latest': '15.78', 'chg_pct': '1.28%', 'chg': '0.20', 'colume': '12699手', 'amount': '1994万', 'open': '15.50', 'hst_clost': '15.58', 'low': '15.33', 'high': '15.85'}
+{'code': '600155', 'name': '华创阳安', 'latest': '11.91', 'chg_pct': '1.28%', 'chg': '0.15', 'colume': '55318手', 'amount': '6554万', 'open': '11.70', 'hst_clost': '11.76', 'low': '11.60', 'high': '11.96'}
+{'code': '600687', 'name': '*ST刚泰', 'latest': '1.60', 'chg_pct': '1.27%', 'chg': '0.02', 'colume': '37922手', 'amount': '607万', 'open': '1.59', 'hst_clost': '1.58', 'low': '1.58', 'high': '1.63'}
+{'code': '600456', 'name': '宝钛股份', 'latest': '21.93', 'chg_pct': '1.25%', 'chg': '0.27', 'colume': '11073手', 'amount': '2404万', 'open': '21.66', 'hst_clost': '21.66', 'low': '21.41', 'high': '21.98'}
+{'code': '600128', 'name': '弘业股份', 'latest': '7.32', 'chg_pct': '1.25%', 'chg': '0.09', 'colume': '12275手', 'amount': '894万', 'open': '7.21', 'hst_clost': '7.23', 'low': '7.18', 'high': '7.33'}
+{'code': '600532', 'name': '宏达矿业', 'latest': '4.07', 'chg_pct': '1.24%', 'chg': '0.05', 'colume': '356975手', 'amount': '14749万', 'open': '4.02', 'hst_clost': '4.02', 'low': '3.91', 'high': '4.42'}
+{'code': '603268', 'name': '松发股份', 'latest': '15.52', 'chg_pct': '1.24%', 'chg': '0.19', 'colume': '1814手', 'amount': '281万', 'open': '15.11', 'hst_clost': '15.33', 'low': '15.11', 'high': '15.66'}
+{'code': '600318', 'name': '新力金融', 'latest': '6.63', 'chg_pct': '1.22%', 'chg': '0.08', 'colume': '10184手', 'amount': '672万', 'open': '6.58', 'hst_clost': '6.55', 'low': '6.53', 'high': '6.64'}
+{'code': '600011', 'name': '华能国际', 'latest': '5.81', 'chg_pct': '1.22%', 'chg': '0.07', 'colume': '89226手', 'amount': '5156万', 'open': '5.72', 'hst_clost': '5.74', 'low': '5.68', 'high': '5.82'}
+{'code': '601163', 'name': '三角轮胎', 'latest': '14.10', 'chg_pct': '1.22%', 'chg': '0.17', 'colume': '10329手', 'amount': '1446万', 'open': '13.94', 'hst_clost': '13.93', 'low': '13.90', 'high': '14.10'}
+{'code': '600372', 'name': '中航电子', 'latest': '13.30', 'chg_pct': '1.22%', 'chg': '0.16', 'colume': '10080手', 'amount': '1338万', 'open': '13.14', 'hst_clost': '13.14', 'low': '13.09', 'high': '13.34'}
+{'code': '603011', 'name': '合锻智能', 'latest': '4.99', 'chg_pct': '1.22%', 'chg': '0.06', 'colume': '12860手', 'amount': '641万', 'open': '4.95', 'hst_clost': '4.93', 'low': '4.91', 'high': '5.03'}
+{'code': '603501', 'name': '韦尔股份', 'latest': '125.30', 'chg_pct': '1.21%', 'chg': '1.50', 'colume': '9404手', 'amount': '11729万', 'open': '123.37', 'hst_clost': '123.80', 'low': '123.30', 'high': '125.55'}
+{'code': '603516', 'name': '淳中科技', 'latest': '35.10', 'chg_pct': '1.21%', 'chg': '0.42', 'colume': '5361手', 'amount': '1882万', 'open': '34.96', 'hst_clost': '34.68', 'low': '34.80', 'high': '35.45'}
+{'code': '600466', 'name': '蓝光发展', 'latest': '6.74', 'chg_pct': '1.20%', 'chg': '0.08', 'colume': '73147手', 'amount': '4900万', 'open': '6.66', 'hst_clost': '6.66', 'low': '6.60', 'high': '6.75'}
+{'code': '600599', 'name': '熊猫金控', 'latest': '10.15', 'chg_pct': '1.20%', 'chg': '0.12', 'colume': '48111手', 'amount': '4900万', 'open': '10.07', 'hst_clost': '10.03', 'low': '9.98', 'high': '10.34'}
+{'code': '600084', 'name': '*ST中葡', 'latest': '2.54', 'chg_pct': '1.20%', 'chg': '0.03', 'colume': '15528手', 'amount': '392万', 'open': '2.52', 'hst_clost': '2.51', 'low': '2.49', 'high': '2.55'}
+{'code': '603038', 'name': '华立股份', 'latest': '14.42', 'chg_pct': '1.19%', 'chg': '0.17', 'colume': '1671手', 'amount': '240万', 'open': '14.36', 'hst_clost': '14.25', 'low': '14.06', 'high': '14.65'}
+{'code': '603105', 'name': '芯能科技', 'latest': '6.81', 'chg_pct': '1.19%', 'chg': '0.08', 'colume': '18443手', 'amount': '1250万', 'open': '6.73', 'hst_clost': '6.73', 'low': '6.70', 'high': '6.83'}
+{'code': '603818', 'name': '曲美家居', 'latest': '7.68', 'chg_pct': '1.19%', 'chg': '0.09', 'colume': '4162手', 'amount': '318万', 'open': '7.57', 'hst_clost': '7.59', 'low': '7.57', 'high': '7.71'}
+{'code': '603606', 'name': '东方电缆', 'latest': '10.28', 'chg_pct': '1.18%', 'chg': '0.12', 'colume': '17605手', 'amount': '1809万', 'open': '10.25', 'hst_clost': '10.16', 'low': '10.21', 'high': '10.34'}
+{'code': '600068', 'name': '葛洲坝', 'latest': '6.00', 'chg_pct': '1.18%', 'chg': '0.07', 'colume': '62693手', 'amount': '3737万', 'open': '5.92', 'hst_clost': '5.93', 'low': '5.89', 'high': '6.00'}
+{'code': '600482', 'name': '中国动力', 'latest': '21.48', 'chg_pct': '1.18%', 'chg': '0.25', 'colume': '7301手', 'amount': '1570万', 'open': '21.23', 'hst_clost': '21.23', 'low': '21.15', 'high': '21.79'}
+{'code': '603583', 'name': '捷昌驱动', 'latest': '37.16', 'chg_pct': '1.17%', 'chg': '0.43', 'colume': '7485手', 'amount': '2763万', 'open': '36.65', 'hst_clost': '36.73', 'low': '36.30', 'high': '37.30'}
+{'code': '600186', 'name': '*ST莲花', 'latest': '1.75', 'chg_pct': '1.16%', 'chg': '0.02', 'colume': '36004手', 'amount': '626万', 'open': '1.73', 'hst_clost': '1.73', 'low': '1.72', 'high': '1.75'}
+{'code': '600387', 'name': '海越能源', 'latest': '8.03', 'chg_pct': '1.13%', 'chg': '0.09', 'colume': '18336手', 'amount': '1474万', 'open': '7.93', 'hst_clost': '7.94', 'low': '7.91', 'high': '8.12'}
+{'code': '603986', 'name': '兆易创新', 'latest': '172.30', 'chg_pct': '1.13%', 'chg': '1.92', 'colume': '17137手', 'amount': '29144万', 'open': '167.90', 'hst_clost': '170.38', 'low': '167.01', 'high': '172.80'}
+{'code': '601012', 'name': '隆基股份', 'latest': '22.77', 'chg_pct': '1.11%', 'chg': '0.25', 'colume': '77821手', 'amount': '17643万', 'open': '22.42', 'hst_clost': '22.52', 'low': '22.38', 'high': '22.90'}
+{'code': '600051', 'name': '宁波联合', 'latest': '5.55', 'chg_pct': '1.09%', 'chg': '0.06', 'colume': '7097手', 'amount': '392万', 'open': '5.45', 'hst_clost': '5.49', 'low': '5.45', 'high': '5.55'}
+{'code': '600543', 'name': '莫高股份', 'latest': '5.56', 'chg_pct': '1.09%', 'chg': '0.06', 'colume': '10321手', 'amount': '573万', 'open': '5.50', 'hst_clost': '5.50', 'low': '5.50', 'high': '5.59'}
+{'code': '603042', 'name': '华脉科技', 'latest': '14.90', 'chg_pct': '1.09%', 'chg': '0.16', 'colume': '12137手', 'amount': '1800万', 'open': '14.68', 'hst_clost': '14.74', 'low': '14.57', 'high': '15.04'}
+{'code': '600070', 'name': '浙江富润', 'latest': '10.27', 'chg_pct': '1.08%', 'chg': '0.11', 'colume': '76020手', 'amount': '7857万', 'open': '10.16', 'hst_clost': '10.16', 'low': '10.06', 'high': '10.50'}
+{'code': '600172', 'name': '黄河旋风', 'latest': '2.80', 'chg_pct': '1.08%', 'chg': '0.03', 'colume': '21870手', 'amount': '609万', 'open': '2.76', 'hst_clost': '2.77', 'low': '2.76', 'high': '2.81'}
+{'code': '603078', 'name': '江化微', 'latest': '29.87', 'chg_pct': '1.08%', 'chg': '0.32', 'colume': '6085手', 'amount': '1811万', 'open': '29.33', 'hst_clost': '29.55', 'low': '29.11', 'high': '30.05'}
+{}
+{}
+{'code': '603078', 'name': '江化微', 'latest': '29.87', 'chg_pct': '1.08%', 'chg': '0.32', 'colume': '6085手', 'amount': '1811万', 'open': '29.33', 'hst_clost': '29.55', 'low': '29.11', 'high': '30.05'}
+{'code': '603918', 'name': '金桥信息', 'latest': '12.26', 'chg_pct': '1.07%', 'chg': '0.13', 'colume': '11136手', 'amount': '1355万', 'open': '12.13', 'hst_clost': '12.13', 'low': '12.03', 'high': '12.30'}
+{'code': '600636', 'name': '三爱富', 'latest': '9.46', 'chg_pct': '1.07%', 'chg': '0.10', 'colume': '5661手', 'amount': '535万', 'open': '9.36', 'hst_clost': '9.36', 'low': '9.35', 'high': '9.51'}
+{'code': '600290', 'name': '华仪电气', 'latest': '3.79', 'chg_pct': '1.07%', 'chg': '0.04', 'colume': '22404手', 'amount': '847万', 'open': '3.74', 'hst_clost': '3.75', 'low': '3.72', 'high': '3.81'}
+{'code': '600584', 'name': '长电科技', 'latest': '20.18', 'chg_pct': '1.05%', 'chg': '0.21', 'colume': '134083手', 'amount': '26982万', 'open': '20.10', 'hst_clost': '19.97', 'low': '19.86', 'high': '20.35'}
+{'code': '600038', 'name': '中直股份', 'latest': '44.22', 'chg_pct': '1.05%', 'chg': '0.46', 'colume': '10053手', 'amount': '4428万', 'open': '43.60', 'hst_clost': '43.76', 'low': '43.52', 'high': '44.30'}
+{'code': '600466', 'name': '蓝光发展', 'latest': '6.73', 'chg_pct': '1.05%', 'chg': '0.07', 'colume': '73768手', 'amount': '4942万', 'open': '6.66', 'hst_clost': '6.66', 'low': '6.60', 'high': '6.75'}
+{'code': '603633', 'name': '徕木股份', 'latest': '8.68', 'chg_pct': '1.05%', 'chg': '0.09', 'colume': '6088手', 'amount': '527万', 'open': '8.59', 'hst_clost': '8.59', 'low': '8.53', 'high': '8.71'}
+{'code': '600707', 'name': '彩虹股份', 'latest': '3.91', 'chg_pct': '1.03%', 'chg': '0.04', 'colume': '21727手', 'amount': '844万', 'open': '3.84', 'hst_clost': '3.87', 'low': '3.84', 'high': '3.92'}
+{'code': '600647', 'name': '同达创业', 'latest': '13.70', 'chg_pct': '1.03%', 'chg': '0.14', 'colume': '4202手', 'amount': '571万', 'open': '13.63', 'hst_clost': '13.56', 'low': '13.45', 'high': '13.72'}
+{'code': '600732', 'name': 'ST新梅', 'latest': '6.90', 'chg_pct': '1.03%', 'chg': '0.07', 'colume': '4946手', 'amount': '340万', 'open': '6.85', 'hst_clost': '6.83', 'low': '6.77', 'high': '6.91'}
+{'code': '603586', 'name': '金麒麟', 'latest': '15.92', 'chg_pct': '1.02%', 'chg': '0.16', 'colume': '1771手', 'amount': '281万', 'open': '15.79', 'hst_clost': '15.76', 'low': '15.70', 'high': '15.97'}
+{'code': '603733', 'name': '仙鹤股份', 'latest': '13.99', 'chg_pct': '1.01%', 'chg': '0.14', 'colume': '2313手', 'amount': '322万', 'open': '13.82', 'hst_clost': '13.85', 'low': '13.80', 'high': '14.03'}
+{'code': '600103', 'name': '青山纸业', 'latest': '2.00', 'chg_pct': '1.01%', 'chg': '0.02', 'colume': '18205手', 'amount': '362万', 'open': '1.98', 'hst_clost': '1.98', 'low': '1.97', 'high': '2.00'}
+{'code': '600387', 'name': '海越能源', 'latest': '8.02', 'chg_pct': '1.01%', 'chg': '0.08', 'colume': '18357手', 'amount': '1475万', 'open': '7.93', 'hst_clost': '7.94', 'low': '7.91', 'high': '8.12'}
+{'code': '601236', 'name': '红塔证券', 'latest': '14.07', 'chg_pct': '1.01%', 'chg': '0.14', 'colume': '127796手', 'amount': '17792万', 'open': '13.74', 'hst_clost': '13.93', 'low': '13.65', 'high': '14.16'}
+{'code': '603966', 'name': '法兰泰克', 'latest': '10.08', 'chg_pct': '1.00%', 'chg': '0.10', 'colume': '4749手', 'amount': '477万', 'open': '9.93', 'hst_clost': '9.98', 'low': '9.90', 'high': '10.12'}
+{'code': '600527', 'name': '江南高纤', 'latest': '2.03', 'chg_pct': '1.00%', 'chg': '0.02', 'colume': '27902手', 'amount': '564万', 'open': '2.01', 'hst_clost': '2.01', 'low': '2.01', 'high': '2.03'}
+{'code': '600565', 'name': '迪马股份', 'latest': '3.05', 'chg_pct': '0.99%', 'chg': '0.03', 'colume': '19723手', 'amount': '597万', 'open': '3.01', 'hst_clost': '3.02', 'low': '3.00', 'high': '3.05'}
+{'code': '600582', 'name': '天地科技', 'latest': '3.07', 'chg_pct': '0.99%', 'chg': '0.03', 'colume': '54180手', 'amount': '1655万', 'open': '3.05', 'hst_clost': '3.04', 'low': '3.04', 'high': '3.07'}
+{'code': '600779', 'name': '水井坊', 'latest': '58.54', 'chg_pct': '0.98%', 'chg': '0.57', 'colume': '7684手', 'amount': '4466万', 'open': '57.97', 'hst_clost': '57.97', 'low': '57.60', 'high': '58.55'}
+{'code': '603238', 'name': '诺邦股份', 'latest': '17.47', 'chg_pct': '0.98%', 'chg': '0.17', 'colume': '1576手', 'amount': '276万', 'open': '17.35', 'hst_clost': '17.30', 'low': '17.32', 'high': '17.65'}
+{'code': '601558', 'name': 'ST锐电', 'latest': '1.03', 'chg_pct': '0.98%', 'chg': '0.01', 'colume': '46728手', 'amount': '476万', 'open': '1.02', 'hst_clost': '1.02', 'low': '1.01', 'high': '1.03'}
+{'code': '600815', 'name': '*ST厦工', 'latest': '3.10', 'chg_pct': '0.98%', 'chg': '0.03', 'colume': '6319手', 'amount': '195万', 'open': '3.07', 'hst_clost': '3.07', 'low': '3.07', 'high': '3.12'}
+{'code': '600758', 'name': '红阳能源', 'latest': '4.14', 'chg_pct': '0.98%', 'chg': '0.04', 'colume': '30267手', 'amount': '1242万', 'open': '4.09', 'hst_clost': '4.10', 'low': '4.06', 'high': '4.14'}
+{'code': '603366', 'name': '日出东方', 'latest': '4.15', 'chg_pct': '0.97%', 'chg': '0.04', 'colume': '38654手', 'amount': '1586万', 'open': '4.09', 'hst_clost': '4.11', 'low': '4.04', 'high': '4.17'}
+{'code': '600741', 'name': '华域汽车', 'latest': '25.97', 'chg_pct': '0.97%', 'chg': '0.25', 'colume': '18257手', 'amount': '4716万', 'open': '25.79', 'hst_clost': '25.72', 'low': '25.60', 'high': '25.99'}
+{'code': '603659', 'name': '璞泰来', 'latest': '64.73', 'chg_pct': '0.97%', 'chg': '0.62', 'colume': '8735手', 'amount': '5625万', 'open': '64.00', 'hst_clost': '64.11', 'low': '63.21', 'high': '65.10'}
+{'code': '603758', 'name': '秦安股份', 'latest': '5.23', 'chg_pct': '0.97%', 'chg': '0.05', 'colume': '4525手', 'amount': '236万', 'open': '5.18', 'hst_clost': '5.18', 'low': '5.14', 'high': '5.24'}
+{'code': '600129', 'name': '太极集团', 'latest': '11.52', 'chg_pct': '0.96%', 'chg': '0.11', 'colume': '5265手', 'amount': '603万', 'open': '11.42', 'hst_clost': '11.41', 'low': '11.35', 'high': '11.59'}
+{'code': '600889', 'name': '南京化纤', 'latest': '4.22', 'chg_pct': '0.96%', 'chg': '0.04', 'colume': '4657手', 'amount': '195万', 'open': '4.18', 'hst_clost': '4.18', 'low': '4.13', 'high': '4.22'}
+{'code': '600963', 'name': '岳阳林纸', 'latest': '4.22', 'chg_pct': '0.96%', 'chg': '0.04', 'colume': '15056手', 'amount': '633万', 'open': '4.16', 'hst_clost': '4.18', 'low': '4.16', 'high': '4.24'}
+{'code': '603507', 'name': '振江股份', 'latest': '19.07', 'chg_pct': '0.95%', 'chg': '0.18', 'colume': '1268手', 'amount': '241万', 'open': '18.89', 'hst_clost': '18.89', 'low': '18.71', 'high': '19.09'}
+{'code': '600505', 'name': '西昌电力', 'latest': '8.49', 'chg_pct': '0.95%', 'chg': '0.08', 'colume': '14408手', 'amount': '1220万', 'open': '8.49', 'hst_clost': '8.41', 'low': '8.34', 'high': '8.56'}
+{'code': '600220', 'name': '江苏阳光', 'latest': '2.13', 'chg_pct': '0.95%', 'chg': '0.02', 'colume': '19461手', 'amount': '414万', 'open': '2.11', 'hst_clost': '2.11', 'low': '2.11', 'high': '2.14'}
+{'code': '600871', 'name': '石化油服', 'latest': '2.17', 'chg_pct': '0.93%', 'chg': '0.02', 'colume': '28422手', 'amount': '616万', 'open': '2.15', 'hst_clost': '2.15', 'low': '2.15', 'high': '2.18'}
+{'code': '603136', 'name': '天目湖', 'latest': '25.43', 'chg_pct': '0.91%', 'chg': '0.23', 'colume': '2391手', 'amount': '604万', 'open': '25.39', 'hst_clost': '25.20', 'low': '24.88', 'high': '25.48'}
+{'code': '600237', 'name': '铜峰电子', 'latest': '3.34', 'chg_pct': '0.91%', 'chg': '0.03', 'colume': '13200手', 'amount': '438万', 'open': '3.29', 'hst_clost': '3.31', 'low': '3.28', 'high': '3.35'}
+{'code': '600012', 'name': '皖通高速', 'latest': '5.58', 'chg_pct': '0.90%', 'chg': '0.05', 'colume': '4137手', 'amount': '230万', 'open': '5.54', 'hst_clost': '5.53', 'low': '5.53', 'high': '5.58'}
+{'code': '600169', 'name': '太原重工', 'latest': '2.24', 'chg_pct': '0.90%', 'chg': '0.02', 'colume': '14410手', 'amount': '320万', 'open': '2.22', 'hst_clost': '2.22', 'low': '2.21', 'high': '2.24'}
+{'code': '600667', 'name': '太极实业', 'latest': '6.77', 'chg_pct': '0.89%', 'chg': '0.06', 'colume': '43138手', 'amount': '2899万', 'open': '6.70', 'hst_clost': '6.71', 'low': '6.66', 'high': '6.78'}
+{'code': '600760', 'name': '中航沈飞', 'latest': '28.28', 'chg_pct': '0.89%', 'chg': '0.25', 'colume': '24321手', 'amount': '6868万', 'open': '27.99', 'hst_clost': '28.03', 'low': '27.85', 'high': '28.38'}
+{'code': '600435', 'name': '北方导航', 'latest': '7.93', 'chg_pct': '0.89%', 'chg': '0.07', 'colume': '16244手', 'amount': '1285万', 'open': '7.83', 'hst_clost': '7.86', 'low': '7.81', 'high': '7.96'}
+{'code': '601918', 'name': '新集能源', 'latest': '3.40', 'chg_pct': '0.89%', 'chg': '0.03', 'colume': '181903手', 'amount': '6210万', 'open': '3.37', 'hst_clost': '3.37', 'low': '3.34', 'high': '3.45'}
+{'code': '603977', 'name': '国泰集团', 'latest': '7.96', 'chg_pct': '0.89%', 'chg': '0.07', 'colume': '2740手', 'amount': '217万', 'open': '7.90', 'hst_clost': '7.89', 'low': '7.84', 'high': '7.97'}
+{'code': '600743', 'name': '华远地产', 'latest': '2.28', 'chg_pct': '0.89%', 'chg': '0.02', 'colume': '5501手', 'amount': '125万', 'open': '2.26', 'hst_clost': '2.26', 'low': '2.25', 'high': '2.28'}
+{'code': '600731', 'name': '湖南海利', 'latest': '6.86', 'chg_pct': '0.88%', 'chg': '0.06', 'colume': '10011手', 'amount': '683万', 'open': '6.86', 'hst_clost': '6.80', 'low': '6.75', 'high': '6.90'}
+{'code': '603602', 'name': '纵横通信', 'latest': '21.73', 'chg_pct': '0.88%', 'chg': '0.19', 'colume': '15542手', 'amount': '3348万', 'open': '21.21', 'hst_clost': '21.54', 'low': '21.03', 'high': '21.85'}
+{'code': '600218', 'name': '全柴动力', 'latest': '10.32', 'chg_pct': '0.88%', 'chg': '0.09', 'colume': '27561手', 'amount': '2840万', 'open': '10.24', 'hst_clost': '10.23', 'low': '10.13', 'high': '10.37'}
+{'code': '603189', 'name': '网达软件', 'latest': '16.07', 'chg_pct': '0.88%', 'chg': '0.14', 'colume': '11300手', 'amount': '1818万', 'open': '15.80', 'hst_clost': '15.93', 'low': '15.80', 'high': '16.26'}
+{}
+{}
+{'code': '603968', 'name': '醋化股份', 'latest': '14.10', 'chg_pct': '0.86%', 'chg': '0.12', 'colume': '1156手', 'amount': '162万', 'open': '14.06', 'hst_clost': '13.98', 'low': '13.95', 'high': '14.12'}
+{'code': '600109', 'name': '国金证券', 'latest': '8.27', 'chg_pct': '0.85%', 'chg': '0.07', 'colume': '30936手', 'amount': '2544万', 'open': '8.18', 'hst_clost': '8.20', 'low': '8.16', 'high': '8.28'}
+{'code': '600192', 'name': '长城电工', 'latest': '4.75', 'chg_pct': '0.85%', 'chg': '0.04', 'colume': '5096手', 'amount': '241万', 'open': '4.70', 'hst_clost': '4.71', 'low': '4.67', 'high': '4.75'}
+{'code': '600183', 'name': '生益科技', 'latest': '22.61', 'chg_pct': '0.85%', 'chg': '0.19', 'colume': '132894手', 'amount': '29916万', 'open': '22.30', 'hst_clost': '22.42', 'low': '22.23', 'high': '22.72'}
+{'code': '603507', 'name': '振江股份', 'latest': '19.05', 'chg_pct': '0.85%', 'chg': '0.16', 'colume': '1270手', 'amount': '241万', 'open': '18.89', 'hst_clost': '18.89', 'low': '18.71', 'high': '19.09'}
+{'code': '600722', 'name': '金牛化工', 'latest': '4.77', 'chg_pct': '0.85%', 'chg': '0.04', 'colume': '6879手', 'amount': '327万', 'open': '4.71', 'hst_clost': '4.73', 'low': '4.71', 'high': '4.78'}
+{'code': '600159', 'name': '大龙地产', 'latest': '2.40', 'chg_pct': '0.84%', 'chg': '0.02', 'colume': '6399手', 'amount': '153万', 'open': '2.38', 'hst_clost': '2.38', 'low': '2.36', 'high': '2.41'}
+{'code': '600589', 'name': '广东榕泰', 'latest': '4.83', 'chg_pct': '0.84%', 'chg': '0.04', 'colume': '19137手', 'amount': '928万', 'open': '4.81', 'hst_clost': '4.79', 'low': '4.80', 'high': '4.89'}
+{'code': '601199', 'name': '江南水务', 'latest': '3.65', 'chg_pct': '0.83%', 'chg': '0.03', 'colume': '2408手', 'amount': '88万', 'open': '3.62', 'hst_clost': '3.62', 'low': '3.62', 'high': '3.65'}
+{'code': '600893', 'name': '航发动力', 'latest': '19.67', 'chg_pct': '0.82%', 'chg': '0.16', 'colume': '13065手', 'amount': '2563万', 'open': '19.50', 'hst_clost': '19.51', 'low': '19.44', 'high': '19.75'}
+{'code': '601117', 'name': '中国化学', 'latest': '6.20', 'chg_pct': '0.81%', 'chg': '0.05', 'colume': '46075手', 'amount': '2834万', 'open': '6.13', 'hst_clost': '6.15', 'low': '6.12', 'high': '6.21'}
+{'code': '600077', 'name': '宋都股份', 'latest': '2.49', 'chg_pct': '0.81%', 'chg': '0.02', 'colume': '6932手', 'amount': '171万', 'open': '2.47', 'hst_clost': '2.47', 'low': '2.45', 'high': '2.49'}
+{'code': '600209', 'name': 'ST罗顿', 'latest': '2.49', 'chg_pct': '0.81%', 'chg': '0.02', 'colume': '9602手', 'amount': '238万', 'open': '2.47', 'hst_clost': '2.47', 'low': '2.45', 'high': '2.51'}
+{'code': '603559', 'name': '中通国脉', 'latest': '18.77', 'chg_pct': '0.81%', 'chg': '0.15', 'colume': '4923手', 'amount': '920万', 'open': '18.67', 'hst_clost': '18.62', 'low': '18.52', 'high': '18.83'}
+{'code': '600037', 'name': '歌华有线', 'latest': '8.80', 'chg_pct': '0.80%', 'chg': '0.07', 'colume': '14372手', 'amount': '1265万', 'open': '8.74', 'hst_clost': '8.73', 'low': '8.74', 'high': '8.87'}
+{'code': '603966', 'name': '法兰泰克', 'latest': '10.06', 'chg_pct': '0.80%', 'chg': '0.08', 'colume': '4810手', 'amount': '483万', 'open': '9.93', 'hst_clost': '9.98', 'low': '9.90', 'high': '10.12'}
+{'code': '603938', 'name': '三孚股份', 'latest': '16.44', 'chg_pct': '0.80%', 'chg': '0.13', 'colume': '1031手', 'amount': '169万', 'open': '16.57', 'hst_clost': '16.31', 'low': '16.24', 'high': '16.57'}
+{'code': '600673', 'name': '东阳光', 'latest': '8.89', 'chg_pct': '0.79%', 'chg': '0.07', 'colume': '63169手', 'amount': '5565万', 'open': '8.80', 'hst_clost': '8.82', 'low': '8.70', 'high': '8.91'}
+{'code': '603136', 'name': '天目湖', 'latest': '25.40', 'chg_pct': '0.79%', 'chg': '0.20', 'colume': '2397手', 'amount': '605万', 'open': '25.39', 'hst_clost': '25.20', 'low': '24.88', 'high': '25.48'}
+{'code': '603505', 'name': '金石资源', 'latest': '17.85', 'chg_pct': '0.79%', 'chg': '0.14', 'colume': '6352手', 'amount': '1131万', 'open': '17.71', 'hst_clost': '17.71', 'low': '17.63', 'high': '17.90'}
+{'code': '603602', 'name': '纵横通信', 'latest': '21.71', 'chg_pct': '0.79%', 'chg': '0.17', 'colume': '15576手', 'amount': '3356万', 'open': '21.21', 'hst_clost': '21.54', 'low': '21.03', 'high': '21.85'}
+{'code': '600110', 'name': '诺德股份', 'latest': '3.84', 'chg_pct': '0.79%', 'chg': '0.03', 'colume': '21883手', 'amount': '834万', 'open': '3.81', 'hst_clost': '3.81', 'low': '3.77', 'high': '3.84'}
+{'code': '600641', 'name': '万业企业', 'latest': '14.12', 'chg_pct': '0.79%', 'chg': '0.11', 'colume': '33815手', 'amount': '4759万', 'open': '13.99', 'hst_clost': '14.01', 'low': '13.90', 'high': '14.22'}
+{'code': '603298', 'name': '杭叉集团', 'latest': '12.85', 'chg_pct': '0.78%', 'chg': '0.10', 'colume': '8488手', 'amount': '1086万', 'open': '12.68', 'hst_clost': '12.75', 'low': '12.66', 'high': '12.91'}
+{'code': '603535', 'name': '嘉诚国际', 'latest': '18.04', 'chg_pct': '0.78%', 'chg': '0.14', 'colume': '1339手', 'amount': '240万', 'open': '17.86', 'hst_clost': '17.90', 'low': '17.81', 'high': '18.05'}
+{'code': '603713', 'name': '密尔克卫', 'latest': '37.89', 'chg_pct': '0.77%', 'chg': '0.29', 'colume': '9733手', 'amount': '3708万', 'open': '37.34', 'hst_clost': '37.60', 'low': '37.02', 'high': '38.62'}
+{'code': '600606', 'name': '绿地控股', 'latest': '6.54', 'chg_pct': '0.77%', 'chg': '0.05', 'colume': '41929手', 'amount': '2724万', 'open': '6.47', 'hst_clost': '6.49', 'low': '6.45', 'high': '6.54'}
+{'code': '600739', 'name': '辽宁成大', 'latest': '14.41', 'chg_pct': '0.77%', 'chg': '0.11', 'colume': '25246手', 'amount': '3629万', 'open': '14.25', 'hst_clost': '14.30', 'low': '14.21', 'high': '14.45'}
+{'code': '600891', 'name': '*ST秋林', 'latest': '1.32', 'chg_pct': '0.76%', 'chg': '0.01', 'colume': '16273手', 'amount': '212万', 'open': '1.32', 'hst_clost': '1.31', 'low': '1.29', 'high': '1.32'}
+{'code': '603090', 'name': '宏盛股份', 'latest': '15.87', 'chg_pct': '0.76%', 'chg': '0.12', 'colume': '1078手', 'amount': '170万', 'open': '15.80', 'hst_clost': '15.75', 'low': '15.68', 'high': '15.87'}
+{'code': '603199', 'name': '九华旅游', 'latest': '22.48', 'chg_pct': '0.76%', 'chg': '0.17', 'colume': '568手', 'amount': '127万', 'open': '22.31', 'hst_clost': '22.31', 'low': '22.25', 'high': '22.48'}
+{'code': '600122', 'name': '宏图高科', 'latest': '2.65', 'chg_pct': '0.76%', 'chg': '0.02', 'colume': '48126手', 'amount': '1260万', 'open': '2.60', 'hst_clost': '2.63', 'low': '2.59', 'high': '2.65'}
+{'code': '600593', 'name': '大连圣亚', 'latest': '41.20', 'chg_pct': '0.76%', 'chg': '0.31', 'colume': '1865手', 'amount': '763万', 'open': '40.95', 'hst_clost': '40.89', 'low': '40.73', 'high': '41.20'}
+{'code': '601968', 'name': '宝钢包装', 'latest': '5.34', 'chg_pct': '0.76%', 'chg': '0.04', 'colume': '7211手', 'amount': '384万', 'open': '5.32', 'hst_clost': '5.30', 'low': '5.28', 'high': '5.35'}
+{'code': '600674', 'name': '川投能源', 'latest': '9.35', 'chg_pct': '0.75%', 'chg': '0.07', 'colume': '10367手', 'amount': '965万', 'open': '9.26', 'hst_clost': '9.28', 'low': '9.25', 'high': '9.37'}
+{'code': '603025', 'name': '大豪科技', 'latest': '8.03', 'chg_pct': '0.75%', 'chg': '0.06', 'colume': '3567手', 'amount': '284万', 'open': '7.95', 'hst_clost': '7.97', 'low': '7.89', 'high': '8.04'}
+{'code': '603032', 'name': '德新交运', 'latest': '22.74', 'chg_pct': '0.75%', 'chg': '0.17', 'colume': '4040手', 'amount': '916万', 'open': '22.50', 'hst_clost': '22.57', 'low': '22.43', 'high': '22.79'}
+{'code': '603189', 'name': '网达软件', 'latest': '16.05', 'chg_pct': '0.75%', 'chg': '0.12', 'colume': '11438手', 'amount': '1840万', 'open': '15.80', 'hst_clost': '15.93', 'low': '15.80', 'high': '16.26'}
+{'code': '603351', 'name': '威尔药业', 'latest': '32.39', 'chg_pct': '0.75%', 'chg': '0.24', 'colume': '1279手', 'amount': '413万', 'open': '31.98', 'hst_clost': '32.15', 'low': '31.92', 'high': '32.55'}
+{'code': '600667', 'name': '太极实业', 'latest': '6.76', 'chg_pct': '0.75%', 'chg': '0.05', 'colume': '43150手', 'amount': '2900万', 'open': '6.70', 'hst_clost': '6.71', 'low': '6.66', 'high': '6.78'}
+{'code': '600165', 'name': '新日恒力', 'latest': '4.07', 'chg_pct': '0.74%', 'chg': '0.03', 'colume': '44205手', 'amount': '1802万', 'open': '4.01', 'hst_clost': '4.04', 'low': '4.00', 'high': '4.13'}
+{'code': '600132', 'name': '重庆啤酒', 'latest': '51.71', 'chg_pct': '0.74%', 'chg': '0.38', 'colume': '9307手', 'amount': '4813万', 'open': '51.70', 'hst_clost': '51.33', 'low': '51.01', 'high': '52.14'}
+{'code': '600892', 'name': '大晟文化', 'latest': '5.48', 'chg_pct': '0.74%', 'chg': '0.04', 'colume': '13976手', 'amount': '763万', 'open': '5.47', 'hst_clost': '5.44', 'low': '5.37', 'high': '5.53'}
+{'code': '600426', 'name': '华鲁恒升', 'latest': '16.46', 'chg_pct': '0.73%', 'chg': '0.12', 'colume': '15475手', 'amount': '2533万', 'open': '16.35', 'hst_clost': '16.34', 'low': '16.25', 'high': '16.49'}
+{'code': '603366', 'name': '日出东方', 'latest': '4.14', 'chg_pct': '0.73%', 'chg': '0.03', 'colume': '39127手', 'amount': '1606万', 'open': '4.09', 'hst_clost': '4.11', 'low': '4.04', 'high': '4.17'}
+{'code': '600517', 'name': '置信电气', 'latest': '6.91', 'chg_pct': '0.73%', 'chg': '0.05', 'colume': '37982手', 'amount': '2598万', 'open': '6.85', 'hst_clost': '6.86', 'low': '6.76', 'high': '6.95'}
+{'code': '601999', 'name': '出版传媒', 'latest': '5.54', 'chg_pct': '0.73%', 'chg': '0.04', 'colume': '7323手', 'amount': '405万', 'open': '5.55', 'hst_clost': '5.50', 'low': '5.47', 'high': '5.55'}
+{'code': '600968', 'name': '海油发展', 'latest': '2.78', 'chg_pct': '0.73%', 'chg': '0.02', 'colume': '72517手', 'amount': '2003万', 'open': '2.77', 'hst_clost': '2.76', 'low': '2.75', 'high': '2.78'}
+{'code': '601106', 'name': '中国一重', 'latest': '2.79', 'chg_pct': '0.72%', 'chg': '0.02', 'colume': '23439手', 'amount': '649万', 'open': '2.77', 'hst_clost': '2.77', 'low': '2.76', 'high': '2.79'}
+{'code': '601788', 'name': '光大证券', 'latest': '11.19', 'chg_pct': '0.72%', 'chg': '0.08', 'colume': '26312手', 'amount': '2930万', 'open': '11.08', 'hst_clost': '11.11', 'low': '11.04', 'high': '11.23'}
+{}
+{}
+{'code': '600397', 'name': '安源煤业', 'latest': '2.50', 'chg_pct': '10.13%', 'chg': '0.23', 'colume': '361431手', 'amount': '8836万', 'open': '2.35', 'hst_clost': '2.27', 'low': '2.30', 'high': '2.50'}
+{'code': '600223', 'name': '鲁商发展', 'latest': '6.16', 'chg_pct': '10.00%', 'chg': '0.56', 'colume': '493950手', 'amount': '29670万', 'open': '5.61', 'hst_clost': '5.60', 'low': '5.56', 'high': '6.16'}
+{'code': '603555', 'name': '贵人鸟', 'latest': '3.86', 'chg_pct': '9.97%', 'chg': '0.35', 'colume': '45766手', 'amount': '1730万', 'open': '3.68', 'hst_clost': '3.51', 'low': '3.65', 'high': '3.86'}
+{'code': '600358', 'name': '国旅联合', 'latest': '4.09', 'chg_pct': '9.95%', 'chg': '0.37', 'colume': '93794手', 'amount': '3760万', 'open': '3.76', 'hst_clost': '3.72', 'low': '3.69', 'high': '4.09'}
+{'code': '600747', 'name': '退市大控', 'latest': '0.28', 'chg_pct': '7.69%', 'chg': '0.02', 'colume': '315885手', 'amount': '843万', 'open': '0.26', 'hst_clost': '0.26', 'low': '0.25', 'high': '0.28'}
+{'code': '603093', 'name': '南华期货', 'latest': '24.48', 'chg_pct': '6.34%', 'chg': '1.46', 'colume': '116024手', 'amount': '27527万', 'open': '22.77', 'hst_clost': '23.02', 'low': '22.70', 'high': '24.87'}
+{'code': '603556', 'name': '海兴电力', 'latest': '16.34', 'chg_pct': '6.24%', 'chg': '0.96', 'colume': '53685手', 'amount': '8578万', 'open': '15.32', 'hst_clost': '15.38', 'low': '15.32', 'high': '16.38'}
+{'code': '600143', 'name': '金发科技', 'latest': '7.02', 'chg_pct': '6.04%', 'chg': '0.40', 'colume': '760617手', 'amount': '54734万', 'open': '7.28', 'hst_clost': '6.62', 'low': '6.99', 'high': '7.28'}
+{'code': '603489', 'name': '八方股份', 'latest': '97.50', 'chg_pct': '5.83%', 'chg': '5.37', 'colume': '71677手', 'amount': '70105万', 'open': '97.00', 'hst_clost': '92.13', 'low': '96.15', 'high': '100.00'}
+{'code': '600986', 'name': '科达股份', 'latest': '4.82', 'chg_pct': '5.70%', 'chg': '0.26', 'colume': '509881手', 'amount': '24210万', 'open': '4.53', 'hst_clost': '4.56', 'low': '4.53', 'high': '4.93'}
+{'code': '600614', 'name': '*ST鹏起', 'latest': '0.97', 'chg_pct': '5.44%', 'chg': '0.05', 'colume': '39176手', 'amount': '380万', 'open': '0.97', 'hst_clost': '0.92', 'low': '0.97', 'high': '0.97'}
+{'code': '603506', 'name': '南都物业', 'latest': '23.61', 'chg_pct': '5.40%', 'chg': '1.21', 'colume': '18327手', 'amount': '4201万', 'open': '22.69', 'hst_clost': '22.40', 'low': '22.22', 'high': '23.69'}
+{'code': '601258', 'name': '*ST庞大', 'latest': '1.20', 'chg_pct': '5.26%', 'chg': '0.06', 'colume': '342698手', 'amount': '4088万', 'open': '1.19', 'hst_clost': '1.14', 'low': '1.17', 'high': '1.20'}
+{'code': '600268', 'name': '国电南自', 'latest': '4.84', 'chg_pct': '4.99%', 'chg': '0.23', 'colume': '48540手', 'amount': '2305万', 'open': '4.65', 'hst_clost': '4.61', 'low': '4.63', 'high': '4.88'}
+{'code': '601113', 'name': 'ST华鼎', 'latest': '3.39', 'chg_pct': '4.95%', 'chg': '0.16', 'colume': '110940手', 'amount': '3708万', 'open': '3.19', 'hst_clost': '3.23', 'low': '3.19', 'high': '3.39'}
+{'code': '600886', 'name': '国投电力', 'latest': '8.41', 'chg_pct': '4.60%', 'chg': '0.37', 'colume': '208864手', 'amount': '17214万', 'open': '8.06', 'hst_clost': '8.04', 'low': '8.05', 'high': '8.41'}
+{'code': '600685', 'name': '中船防务', 'latest': '15.10', 'chg_pct': '4.57%', 'chg': '0.66', 'colume': '70685手', 'amount': '10650万', 'open': '14.62', 'hst_clost': '14.44', 'low': '14.52', 'high': '15.38'}
+{'code': '600800', 'name': '天津磁卡', 'latest': '5.52', 'chg_pct': '4.35%', 'chg': '0.23', 'colume': '62745手', 'amount': '3482万', 'open': '5.44', 'hst_clost': '5.29', 'low': '5.42', 'high': '5.66'}
+{'code': '600485', 'name': '*ST信威', 'latest': '1.21', 'chg_pct': '4.31%', 'chg': '0.05', 'colume': '347729手', 'amount': '4146万', 'open': '1.16', 'hst_clost': '1.16', 'low': '1.15', 'high': '1.22'}
+{'code': '601388', 'name': '怡球资源', 'latest': '1.83', 'chg_pct': '3.98%', 'chg': '0.07', 'colume': '207325手', 'amount': '3788万', 'open': '1.76', 'hst_clost': '1.76', 'low': '1.75', 'high': '1.88'}
+{'code': '600981', 'name': '汇鸿集团', 'latest': '3.67', 'chg_pct': '3.97%', 'chg': '0.14', 'colume': '44826手', 'amount': '1636万', 'open': '3.60', 'hst_clost': '3.53', 'low': '3.58', 'high': '3.70'}
+{'code': '603976', 'name': '正川股份', 'latest': '32.85', 'chg_pct': '3.96%', 'chg': '1.25', 'colume': '46928手', 'amount': '15346万', 'open': '31.81', 'hst_clost': '31.60', 'low': '31.61', 'high': '33.39'}
+{'code': '603996', 'name': 'ST中新', 'latest': '4.80', 'chg_pct': '3.90%', 'chg': '0.18', 'colume': '16404手', 'amount': '781万', 'open': '4.63', 'hst_clost': '4.62', 'low': '4.58', 'high': '4.85'}
+{'code': '600567', 'name': '山鹰纸业', 'latest': '3.33', 'chg_pct': '3.74%', 'chg': '0.12', 'colume': '639866手', 'amount': '21136万', 'open': '3.23', 'hst_clost': '3.21', 'low': '3.23', 'high': '3.34'}
+{'code': '603590', 'name': '康辰药业', 'latest': '36.45', 'chg_pct': '3.70%', 'chg': '1.30', 'colume': '23854手', 'amount': '8690万', 'open': '36.01', 'hst_clost': '35.15', 'low': '36.00', 'high': '36.88'}
+{'code': '601872', 'name': '招商轮船', 'latest': '6.20', 'chg_pct': '3.68%', 'chg': '0.22', 'colume': '324936手', 'amount': '20078万', 'open': '6.18', 'hst_clost': '5.98', 'low': '6.08', 'high': '6.26'}
+{'code': '600796', 'name': '钱江生化', 'latest': '5.16', 'chg_pct': '3.61%', 'chg': '0.18', 'colume': '27454手', 'amount': '1409万', 'open': '4.93', 'hst_clost': '4.98', 'low': '4.93', 'high': '5.29'}
+{'code': '603690', 'name': '至纯科技', 'latest': '25.89', 'chg_pct': '3.60%', 'chg': '0.90', 'colume': '57616手', 'amount': '14857万', 'open': '24.95', 'hst_clost': '24.99', 'low': '24.79', 'high': '26.29'}
+{'code': '600855', 'name': '航天长峰', 'latest': '13.10', 'chg_pct': '3.39%', 'chg': '0.43', 'colume': '74676手', 'amount': '9798万', 'open': '12.69', 'hst_clost': '12.67', 'low': '12.69', 'high': '13.40'}
+{'code': '600307', 'name': '酒钢宏兴', 'latest': '1.93', 'chg_pct': '3.21%', 'chg': '0.06', 'colume': '290549手', 'amount': '5539万', 'open': '1.87', 'hst_clost': '1.87', 'low': '1.86', 'high': '1.93'}
+{'code': '603013', 'name': '亚普股份', 'latest': '16.80', 'chg_pct': '3.19%', 'chg': '0.52', 'colume': '61756手', 'amount': '10529万', 'open': '16.02', 'hst_clost': '16.28', 'low': '16.01', 'high': '17.85'}
+{'code': '600112', 'name': 'ST天成', 'latest': '1.99', 'chg_pct': '3.11%', 'chg': '0.06', 'colume': '23967手', 'amount': '463万', 'open': '1.92', 'hst_clost': '1.93', 'low': '1.90', 'high': '1.99'}
+{'code': '600990', 'name': '四创电子', 'latest': '43.79', 'chg_pct': '3.11%', 'chg': '1.32', 'colume': '10678手', 'amount': '4635万', 'open': '42.34', 'hst_clost': '42.47', 'low': '42.25', 'high': '44.38'}
+{'code': '603318', 'name': '派思股份', 'latest': '12.65', 'chg_pct': '3.01%', 'chg': '0.37', 'colume': '174021手', 'amount': '21880万', 'open': '12.29', 'hst_clost': '12.28', 'low': '12.29', 'high': '12.88'}
+{'code': '603005', 'name': '晶方科技', 'latest': '26.08', 'chg_pct': '3.00%', 'chg': '0.76', 'colume': '51543手', 'amount': '13339万', 'open': '25.13', 'hst_clost': '25.32', 'low': '24.92', 'high': '26.40'}
+{'code': '600759', 'name': '洲际油气', 'latest': '2.75', 'chg_pct': '3.00%', 'chg': '0.08', 'colume': '104602手', 'amount': '2868万', 'open': '2.68', 'hst_clost': '2.67', 'low': '2.68', 'high': '2.79'}
+{'code': '603197', 'name': '保隆科技', 'latest': '29.40', 'chg_pct': '2.98%', 'chg': '0.85', 'colume': '35350手', 'amount': '10298万', 'open': '28.02', 'hst_clost': '28.55', 'low': '28.00', 'high': '29.65'}
+{'code': '600159', 'name': '大龙地产', 'latest': '2.45', 'chg_pct': '2.94%', 'chg': '0.07', 'colume': '23354手', 'amount': '566万', 'open': '2.38', 'hst_clost': '2.38', 'low': '2.36', 'high': '2.46'}
+{'code': '600267', 'name': '海正药业', 'latest': '11.14', 'chg_pct': '2.86%', 'chg': '0.31', 'colume': '210301手', 'amount': '23403万', 'open': '10.86', 'hst_clost': '10.83', 'low': '10.82', 'high': '11.27'}
+{'code': '603658', 'name': '安图生物', 'latest': '112.49', 'chg_pct': '2.82%', 'chg': '3.09', 'colume': '7530手', 'amount': '8347万', 'open': '109.59', 'hst_clost': '109.40', 'low': '108.50', 'high': '113.04'}
+{'code': '600289', 'name': '*ST信通', 'latest': '2.61', 'chg_pct': '2.76%', 'chg': '0.07', 'colume': '13392手', 'amount': '349万', 'open': '2.59', 'hst_clost': '2.54', 'low': '2.57', 'high': '2.66'}
+{'code': '600638', 'name': '新黄浦', 'latest': '7.10', 'chg_pct': '2.75%', 'chg': '0.19', 'colume': '14955手', 'amount': '1058万', 'open': '6.85', 'hst_clost': '6.91', 'low': '6.84', 'high': '7.18'}
+{'code': '600075', 'name': '新疆天业', 'latest': '4.86', 'chg_pct': '2.75%', 'chg': '0.13', 'colume': '51195手', 'amount': '2501万', 'open': '4.80', 'hst_clost': '4.73', 'low': '4.80', 'high': '5.05'}
+{'code': '601890', 'name': '亚星锚链', 'latest': '5.67', 'chg_pct': '2.72%', 'chg': '0.15', 'colume': '92193手', 'amount': '5229万', 'open': '5.52', 'hst_clost': '5.52', 'low': '5.48', 'high': '5.78'}
+{'code': '603110', 'name': '东方材料', 'latest': '15.25', 'chg_pct': '2.69%', 'chg': '0.40', 'colume': '9672手', 'amount': '1467万', 'open': '14.94', 'hst_clost': '14.85', 'low': '14.66', 'high': '15.30'}
+{'code': '600477', 'name': '杭萧钢构', 'latest': '2.68', 'chg_pct': '2.68%', 'chg': '0.07', 'colume': '80436手', 'amount': '2145万', 'open': '2.60', 'hst_clost': '2.61', 'low': '2.58', 'high': '2.70'}
+{'code': '603040', 'name': '新坐标', 'latest': '32.59', 'chg_pct': '2.68%', 'chg': '0.85', 'colume': '3543手', 'amount': '1145万', 'open': '31.95', 'hst_clost': '31.74', 'low': '31.69', 'high': '32.66'}
+{'code': '600116', 'name': '三峡水利', 'latest': '7.89', 'chg_pct': '2.60%', 'chg': '0.20', 'colume': '38079手', 'amount': '2967万', 'open': '7.69', 'hst_clost': '7.69', 'low': '7.65', 'high': '7.89'}
+{'code': '600150', 'name': '中国船舶', 'latest': '20.29', 'chg_pct': '2.58%', 'chg': '0.51', 'colume': '80905手', 'amount': '16430万', 'open': '19.80', 'hst_clost': '19.78', 'low': '19.80', 'high': '20.57'}
+{'code': '603859', 'name': '能科股份', 'latest': '23.64', 'chg_pct': '2.56%', 'chg': '0.59', 'colume': '6611手', 'amount': '1548万', 'open': '23.29', 'hst_clost': '23.05', 'low': '23.22', 'high': '23.66'}
+{}
+{}
+{'code': '601099', 'name': '太平洋', 'latest': '3.26', 'chg_pct': '2.52%', 'chg': '0.08', 'colume': '623301手', 'amount': '20244万', 'open': '3.19', 'hst_clost': '3.18', 'low': '3.18', 'high': '3.28'}
+{'code': '600526', 'name': '*ST菲达', 'latest': '5.02', 'chg_pct': '2.45%', 'chg': '0.12', 'colume': '12967手', 'amount': '650万', 'open': '4.90', 'hst_clost': '4.90', 'low': '4.88', 'high': '5.10'}
+{'code': '603444', 'name': '吉比特', 'latest': '317.55', 'chg_pct': '2.38%', 'chg': '7.39', 'colume': '5420手', 'amount': '17052万', 'open': '316.35', 'hst_clost': '310.16', 'low': '310.16', 'high': '317.72'}
+{'code': '600051', 'name': '宁波联合', 'latest': '5.62', 'chg_pct': '2.37%', 'chg': '0.13', 'colume': '11202手', 'amount': '620万', 'open': '5.45', 'hst_clost': '5.49', 'low': '5.45', 'high': '5.62'}
+{'code': '603987', 'name': '康德莱', 'latest': '7.78', 'chg_pct': '2.37%', 'chg': '0.18', 'colume': '19960手', 'amount': '1542万', 'open': '7.58', 'hst_clost': '7.60', 'low': '7.53', 'high': '7.81'}
+{'code': '600775', 'name': '南京熊猫', 'latest': '9.77', 'chg_pct': '2.30%', 'chg': '0.22', 'colume': '62294手', 'amount': '6082万', 'open': '9.48', 'hst_clost': '9.55', 'low': '9.48', 'high': '9.92'}
+{'code': '600306', 'name': '商业城', 'latest': '6.08', 'chg_pct': '2.19%', 'chg': '0.13', 'colume': '77249手', 'amount': '4906万', 'open': '6.40', 'hst_clost': '5.95', 'low': '6.00', 'high': '6.55'}
+{'code': '600896', 'name': '览海投资', 'latest': '4.26', 'chg_pct': '2.16%', 'chg': '0.09', 'colume': '29681手', 'amount': '1264万', 'open': '4.19', 'hst_clost': '4.17', 'low': '4.16', 'high': '4.32'}
+{'code': '601777', 'name': '力帆股份', 'latest': '2.84', 'chg_pct': '2.16%', 'chg': '0.06', 'colume': '134773手', 'amount': '3777万', 'open': '2.75', 'hst_clost': '2.78', 'low': '2.70', 'high': '2.87'}
+{'code': '600391', 'name': '航发科技', 'latest': '13.83', 'chg_pct': '2.14%', 'chg': '0.29', 'colume': '14512手', 'amount': '1997万', 'open': '13.56', 'hst_clost': '13.54', 'low': '13.51', 'high': '13.89'}
+{'code': '603313', 'name': '梦百合', 'latest': '18.38', 'chg_pct': '2.11%', 'chg': '0.38', 'colume': '24190手', 'amount': '4411万', 'open': '17.85', 'hst_clost': '18.00', 'low': '17.80', 'high': '18.50'}
+{'code': '603348', 'name': '文灿股份', 'latest': '17.02', 'chg_pct': '2.10%', 'chg': '0.35', 'colume': '16051手', 'amount': '2733万', 'open': '16.74', 'hst_clost': '16.67', 'low': '16.65', 'high': '17.17'}
+{'code': '600599', 'name': '熊猫金控', 'latest': '10.24', 'chg_pct': '2.09%', 'chg': '0.21', 'colume': '53013手', 'amount': '5400万', 'open': '10.07', 'hst_clost': '10.03', 'low': '9.98', 'high': '10.34'}
+{'code': '603335', 'name': '迪生力', 'latest': '4.90', 'chg_pct': '2.08%', 'chg': '0.10', 'colume': '19930手', 'amount': '978万', 'open': '4.87', 'hst_clost': '4.80', 'low': '4.82', 'high': '4.99'}
+{'code': '603336', 'name': '宏辉果蔬', 'latest': '14.44', 'chg_pct': '2.05%', 'chg': '0.29', 'colume': '93504手', 'amount': '13582万', 'open': '14.50', 'hst_clost': '14.15', 'low': '14.27', 'high': '14.78'}
+{'code': '600246', 'name': '万通地产', 'latest': '4.08', 'chg_pct': '2.00%', 'chg': '0.08', 'colume': '10115手', 'amount': '409万', 'open': '3.99', 'hst_clost': '4.00', 'low': '3.96', 'high': '4.11'}
+{'code': '600797', 'name': '浙大网新', 'latest': '10.86', 'chg_pct': '1.97%', 'chg': '0.21', 'colume': '318579手', 'amount': '34357万', 'open': '10.53', 'hst_clost': '10.65', 'low': '10.47', 'high': '11.03'}
+{'code': '600255', 'name': '梦舟股份', 'latest': '1.56', 'chg_pct': '1.96%', 'chg': '0.03', 'colume': '189792手', 'amount': '2933万', 'open': '1.52', 'hst_clost': '1.53', 'low': '1.50', 'high': '1.59'}
+{'code': '603619', 'name': '中曼石油', 'latest': '13.80', 'chg_pct': '1.92%', 'chg': '0.26', 'colume': '19813手', 'amount': '2729万', 'open': '13.66', 'hst_clost': '13.54', 'low': '13.58', 'high': '13.89'}
+{'code': '600730', 'name': '中国高科', 'latest': '4.82', 'chg_pct': '1.90%', 'chg': '0.09', 'colume': '15105手', 'amount': '720万', 'open': '4.71', 'hst_clost': '4.73', 'low': '4.69', 'high': '4.82'}
+{'code': '600732', 'name': 'ST新梅', 'latest': '6.96', 'chg_pct': '1.90%', 'chg': '0.13', 'colume': '8867手', 'amount': '612万', 'open': '6.85', 'hst_clost': '6.83', 'low': '6.77', 'high': '6.97'}
+{'code': '601811', 'name': '新华文轩', 'latest': '12.53', 'chg_pct': '1.87%', 'chg': '0.23', 'colume': '10745手', 'amount': '1333万', 'open': '12.38', 'hst_clost': '12.30', 'low': '12.20', 'high': '12.60'}
+{'code': '603886', 'name': '元祖股份', 'latest': '18.59', 'chg_pct': '1.86%', 'chg': '0.34', 'colume': '26716手', 'amount': '4945万', 'open': '18.27', 'hst_clost': '18.25', 'low': '18.15', 'high': '18.67'}
+{'code': '603177', 'name': '德创环保', 'latest': '10.00', 'chg_pct': '1.83%', 'chg': '0.18', 'colume': '7747手', 'amount': '776万', 'open': '9.94', 'hst_clost': '9.82', 'low': '9.84', 'high': '10.12'}
+{'code': '600280', 'name': '中央商场', 'latest': '2.78', 'chg_pct': '1.83%', 'chg': '0.05', 'colume': '20473手', 'amount': '565万', 'open': '2.73', 'hst_clost': '2.73', 'low': '2.72', 'high': '2.78'}
+{'code': '600673', 'name': '东阳光', 'latest': '8.98', 'chg_pct': '1.81%', 'chg': '0.16', 'colume': '91673手', 'amount': '8107万', 'open': '8.80', 'hst_clost': '8.82', 'low': '8.70', 'high': '8.98'}
+{'code': '603712', 'name': '七一二', 'latest': '20.82', 'chg_pct': '1.81%', 'chg': '0.37', 'colume': '21472手', 'amount': '4446万', 'open': '20.41', 'hst_clost': '20.45', 'low': '20.37', 'high': '20.95'}
+{'code': '601019', 'name': '山东出版', 'latest': '6.79', 'chg_pct': '1.80%', 'chg': '0.12', 'colume': '12512手', 'amount': '843万', 'open': '6.67', 'hst_clost': '6.67', 'low': '6.65', 'high': '6.81'}
+{'code': '601138', 'name': '工业富联', 'latest': '16.50', 'chg_pct': '1.79%', 'chg': '0.29', 'colume': '260929手', 'amount': '42724万', 'open': '16.05', 'hst_clost': '16.21', 'low': '15.95', 'high': '16.54'}
+{'code': '603501', 'name': '韦尔股份', 'latest': '126.01', 'chg_pct': '1.79%', 'chg': '2.21', 'colume': '12230手', 'amount': '15284万', 'open': '123.37', 'hst_clost': '123.80', 'low': '123.30', 'high': '126.16'}
+{'code': '603659', 'name': '璞泰来', 'latest': '65.24', 'chg_pct': '1.76%', 'chg': '1.13', 'colume': '11315手', 'amount': '7303万', 'open': '64.00', 'hst_clost': '64.11', 'low': '63.21', 'high': '65.50'}
+{'code': '603429', 'name': '集友股份', 'latest': '37.20', 'chg_pct': '1.75%', 'chg': '0.64', 'colume': '10877手', 'amount': '4064万', 'open': '36.95', 'hst_clost': '36.56', 'low': '36.12', 'high': '38.00'}
+{'code': '600183', 'name': '生益科技', 'latest': '22.81', 'chg_pct': '1.74%', 'chg': '0.39', 'colume': '159479手', 'amount': '35951万', 'open': '22.30', 'hst_clost': '22.42', 'low': '22.23', 'high': '22.81'}
+{'code': '600343', 'name': '航天动力', 'latest': '8.82', 'chg_pct': '1.73%', 'chg': '0.15', 'colume': '15991手', 'amount': '1404万', 'open': '8.71', 'hst_clost': '8.67', 'low': '8.64', 'high': '8.85'}
+{'code': '601989', 'name': '中国重工', 'latest': '5.32', 'chg_pct': '1.72%', 'chg': '0.09', 'colume': '279598手', 'amount': '14872万', 'open': '5.23', 'hst_clost': '5.23', 'low': '5.21', 'high': '5.37'}
+{'code': '603766', 'name': '隆鑫通用', 'latest': '3.55', 'chg_pct': '1.72%', 'chg': '0.06', 'colume': '50714手', 'amount': '1790万', 'open': '3.49', 'hst_clost': '3.49', 'low': '3.46', 'high': '3.56'}
+{'code': '600101', 'name': '明星电力', 'latest': '7.11', 'chg_pct': '1.72%', 'chg': '0.12', 'colume': '25533手', 'amount': '1807万', 'open': '7.03', 'hst_clost': '6.99', 'low': '6.98', 'high': '7.15'}
+{'code': '600027', 'name': '华电国际', 'latest': '3.57', 'chg_pct': '1.71%', 'chg': '0.06', 'colume': '175965手', 'amount': '6276万', 'open': '3.50', 'hst_clost': '3.51', 'low': '3.50', 'high': '3.61'}
+{'code': '600060', 'name': '海信电器', 'latest': '9.02', 'chg_pct': '1.69%', 'chg': '0.15', 'colume': '31895手', 'amount': '2859万', 'open': '8.90', 'hst_clost': '8.87', 'low': '8.87', 'high': '9.04'}
+{'code': '600285', 'name': '羚锐制药', 'latest': '10.86', 'chg_pct': '1.69%', 'chg': '0.18', 'colume': '77873手', 'amount': '8428万', 'open': '10.60', 'hst_clost': '10.68', 'low': '10.58', 'high': '10.98'}
+{'code': '603179', 'name': '新泉股份', 'latest': '17.53', 'chg_pct': '1.68%', 'chg': '0.29', 'colume': '30999手', 'amount': '5484万', 'open': '17.08', 'hst_clost': '17.24', 'low': '17.01', 'high': '18.20'}
+{'code': '600302', 'name': '标准股份', 'latest': '4.24', 'chg_pct': '1.68%', 'chg': '0.07', 'colume': '9469手', 'amount': '401万', 'open': '4.17', 'hst_clost': '4.17', 'low': '4.16', 'high': '4.29'}
+{'code': '600298', 'name': '安琪酵母', 'latest': '31.00', 'chg_pct': '1.67%', 'chg': '0.51', 'colume': '20716手', 'amount': '6390万', 'open': '30.60', 'hst_clost': '30.49', 'low': '30.50', 'high': '31.10'}
+{'code': '600501', 'name': '航天晨光', 'latest': '7.45', 'chg_pct': '1.64%', 'chg': '0.12', 'colume': '8818手', 'amount': '654万', 'open': '7.37', 'hst_clost': '7.33', 'low': '7.33', 'high': '7.46'}
+{'code': '603157', 'name': '拉夏贝尔', 'latest': '4.35', 'chg_pct': '1.64%', 'chg': '0.07', 'colume': '13787手', 'amount': '598万', 'open': '4.28', 'hst_clost': '4.28', 'low': '4.26', 'high': '4.38'}
+{'code': '603583', 'name': '捷昌驱动', 'latest': '37.33', 'chg_pct': '1.63%', 'chg': '0.60', 'colume': '8653手', 'amount': '3199万', 'open': '36.65', 'hst_clost': '36.73', 'low': '36.30', 'high': '37.34'}
+{'code': '603108', 'name': '润达医疗', 'latest': '10.58', 'chg_pct': '1.63%', 'chg': '0.17', 'colume': '14585手', 'amount': '1524万', 'open': '10.55', 'hst_clost': '10.41', 'low': '10.34', 'high': '10.58'}
+{'code': '603863', 'name': '松炀资源', 'latest': '16.35', 'chg_pct': '1.62%', 'chg': '0.26', 'colume': '18108手', 'amount': '2950万', 'open': '16.20', 'hst_clost': '16.09', 'low': '16.06', 'high': '16.45'}
+{'code': '600187', 'name': '国中水务', 'latest': '2.55', 'chg_pct': '1.59%', 'chg': '0.04', 'colume': '73598手', 'amount': '1852万', 'open': '2.50', 'hst_clost': '2.51', 'low': '2.46', 'high': '2.58'}
+{'code': '600262', 'name': '北方股份', 'latest': '18.59', 'chg_pct': '1.59%', 'chg': '0.29', 'colume': '1984手', 'amount': '369万', 'open': '18.80', 'hst_clost': '18.30', 'low': '18.21', 'high': '18.80'}
+{}
+{}
+{'code': '600208', 'name': '新湖中宝', 'latest': '3.96', 'chg_pct': '1.54%', 'chg': '0.06', 'colume': '1094055手', 'amount': '43141万', 'open': '3.87', 'hst_clost': '3.90', 'low': '3.83', 'high': '4.01'}
+{'code': '600068', 'name': '葛洲坝', 'latest': '6.02', 'chg_pct': '1.52%', 'chg': '0.09', 'colume': '94204手', 'amount': '5634万', 'open': '5.92', 'hst_clost': '5.93', 'low': '5.89', 'high': '6.04'}
+{'code': '600971', 'name': '恒源煤电', 'latest': '5.43', 'chg_pct': '1.50%', 'chg': '0.08', 'colume': '25936手', 'amount': '1397万', 'open': '5.35', 'hst_clost': '5.35', 'low': '5.29', 'high': '5.44'}
+{'code': '600532', 'name': '宏达矿业', 'latest': '4.08', 'chg_pct': '1.49%', 'chg': '0.06', 'colume': '376635手', 'amount': '15554万', 'open': '4.02', 'hst_clost': '4.02', 'low': '3.91', 'high': '4.42'}
+{'code': '600491', 'name': '龙元建设', 'latest': '7.53', 'chg_pct': '1.48%', 'chg': '0.11', 'colume': '55333手', 'amount': '4152万', 'open': '7.48', 'hst_clost': '7.42', 'low': '7.37', 'high': '7.56'}
+{'code': '600070', 'name': '浙江富润', 'latest': '10.31', 'chg_pct': '1.48%', 'chg': '0.15', 'colume': '86246手', 'amount': '8907万', 'open': '10.16', 'hst_clost': '10.16', 'low': '10.06', 'high': '10.50'}
+{'code': '600769', 'name': '祥龙电业', 'latest': '5.51', 'chg_pct': '1.47%', 'chg': '0.08', 'colume': '5970手', 'amount': '327万', 'open': '5.43', 'hst_clost': '5.43', 'low': '5.36', 'high': '5.55'}
+{'code': '600862', 'name': '中航高科', 'latest': '9.65', 'chg_pct': '1.47%', 'chg': '0.14', 'colume': '31670手', 'amount': '3040万', 'open': '9.47', 'hst_clost': '9.51', 'low': '9.42', 'high': '9.68'}
+{'code': '600791', 'name': '京能置业', 'latest': '3.48', 'chg_pct': '1.46%', 'chg': '0.05', 'colume': '8193手', 'amount': '283万', 'open': '3.41', 'hst_clost': '3.43', 'low': '3.41', 'high': '3.49'}
+{'code': '603321', 'name': '梅轮电梯', 'latest': '8.37', 'chg_pct': '1.46%', 'chg': '0.12', 'colume': '32390手', 'amount': '2719万', 'open': '8.18', 'hst_clost': '8.25', 'low': '8.18', 'high': '8.52'}
+{'code': '601899', 'name': '紫金矿业', 'latest': '3.49', 'chg_pct': '1.45%', 'chg': '0.05', 'colume': '996953手', 'amount': '34826万', 'open': '3.46', 'hst_clost': '3.44', 'low': '3.46', 'high': '3.53'}
+{'code': '600764', 'name': '中国海防', 'latest': '27.33', 'chg_pct': '1.45%', 'chg': '0.39', 'colume': '5911手', 'amount': '1623万', 'open': '26.94', 'hst_clost': '26.94', 'low': '26.86', 'high': '27.80'}
+{'code': '600779', 'name': '水井坊', 'latest': '58.80', 'chg_pct': '1.43%', 'chg': '0.83', 'colume': '11251手', 'amount': '6563万', 'open': '57.97', 'hst_clost': '57.97', 'low': '57.60', 'high': '58.95'}
+{'code': '603042', 'name': '华脉科技', 'latest': '14.95', 'chg_pct': '1.43%', 'chg': '0.21', 'colume': '13753手', 'amount': '2042万', 'open': '14.68', 'hst_clost': '14.74', 'low': '14.57', 'high': '15.04'}
+{'code': '600220', 'name': '江苏阳光', 'latest': '2.14', 'chg_pct': '1.42%', 'chg': '0.03', 'colume': '20663手', 'amount': '440万', 'open': '2.11', 'hst_clost': '2.11', 'low': '2.11', 'high': '2.14'}
+{'code': '603011', 'name': '合锻智能', 'latest': '5.00', 'chg_pct': '1.42%', 'chg': '0.07', 'colume': '13857手', 'amount': '691万', 'open': '4.95', 'hst_clost': '4.93', 'low': '4.91', 'high': '5.03'}
+{'code': '601958', 'name': '金钼股份', 'latest': '7.24', 'chg_pct': '1.40%', 'chg': '0.10', 'colume': '37895手', 'amount': '2729万', 'open': '7.10', 'hst_clost': '7.14', 'low': '7.10', 'high': '7.27'}
+{'code': '603606', 'name': '东方电缆', 'latest': '10.30', 'chg_pct': '1.38%', 'chg': '0.14', 'colume': '18894手', 'amount': '1942万', 'open': '10.25', 'hst_clost': '10.16', 'low': '10.21', 'high': '10.34'}
+{'code': '600318', 'name': '新力金融', 'latest': '6.64', 'chg_pct': '1.37%', 'chg': '0.09', 'colume': '12903手', 'amount': '852万', 'open': '6.58', 'hst_clost': '6.55', 'low': '6.53', 'high': '6.65'}
+{'code': '603866', 'name': '桃李面包', 'latest': '48.70', 'chg_pct': '1.37%', 'chg': '0.66', 'colume': '5516手', 'amount': '2667万', 'open': '48.04', 'hst_clost': '48.04', 'low': '47.78', 'high': '48.79'}
+{'code': '600372', 'name': '中航电子', 'latest': '13.32', 'chg_pct': '1.37%', 'chg': '0.18', 'colume': '11292手', 'amount': '1500万', 'open': '13.14', 'hst_clost': '13.14', 'low': '13.09', 'high': '13.34'}
+{'code': '600146', 'name': '商赢环球', 'latest': '14.89', 'chg_pct': '1.36%', 'chg': '0.20', 'colume': '66889手', 'amount': '9721万', 'open': '14.58', 'hst_clost': '14.69', 'low': '14.00', 'high': '14.99'}
+{'code': '603516', 'name': '淳中科技', 'latest': '35.15', 'chg_pct': '1.36%', 'chg': '0.47', 'colume': '6053手', 'amount': '2125万', 'open': '34.96', 'hst_clost': '34.68', 'low': '34.80', 'high': '35.45'}
+{'code': '600667', 'name': '太极实业', 'latest': '6.80', 'chg_pct': '1.34%', 'chg': '0.09', 'colume': '59569手', 'amount': '4016万', 'open': '6.70', 'hst_clost': '6.71', 'low': '6.66', 'high': '6.82'}
+{'code': '603038', 'name': '华立股份', 'latest': '14.44', 'chg_pct': '1.33%', 'chg': '0.19', 'colume': '1853手', 'amount': '267万', 'open': '14.36', 'hst_clost': '14.25', 'low': '14.06', 'high': '14.65'}
+{'code': '601012', 'name': '隆基股份', 'latest': '22.82', 'chg_pct': '1.33%', 'chg': '0.30', 'colume': '89734手', 'amount': '20356万', 'open': '22.42', 'hst_clost': '22.52', 'low': '22.38', 'high': '22.90'}
+{'code': '603466', 'name': '风语筑', 'latest': '13.69', 'chg_pct': '1.33%', 'chg': '0.18', 'colume': '14650手', 'amount': '1994万', 'open': '13.50', 'hst_clost': '13.51', 'low': '13.38', 'high': '13.73'}
+{'code': '600743', 'name': '华远地产', 'latest': '2.29', 'chg_pct': '1.33%', 'chg': '0.03', 'colume': '8825手', 'amount': '200万', 'open': '2.26', 'hst_clost': '2.26', 'low': '2.25', 'high': '2.29'}
+{'code': '600582', 'name': '天地科技', 'latest': '3.08', 'chg_pct': '1.32%', 'chg': '0.04', 'colume': '67178手', 'amount': '2054万', 'open': '3.05', 'hst_clost': '3.04', 'low': '3.04', 'high': '3.08'}
+{'code': '600132', 'name': '重庆啤酒', 'latest': '52.00', 'chg_pct': '1.31%', 'chg': '0.67', 'colume': '10369手', 'amount': '5364万', 'open': '51.70', 'hst_clost': '51.33', 'low': '51.01', 'high': '52.14'}
+{'code': '600293', 'name': '三峡新材', 'latest': '3.11', 'chg_pct': '1.30%', 'chg': '0.04', 'colume': '19736手', 'amount': '609万', 'open': '3.09', 'hst_clost': '3.07', 'low': '3.06', 'high': '3.11'}
+{'code': '600584', 'name': '长电科技', 'latest': '20.23', 'chg_pct': '1.30%', 'chg': '0.26', 'colume': '148043手', 'amount': '29794万', 'open': '20.10', 'hst_clost': '19.97', 'low': '19.86', 'high': '20.35'}
+{'code': '600707', 'name': '彩虹股份', 'latest': '3.92', 'chg_pct': '1.29%', 'chg': '0.05', 'colume': '27073手', 'amount': '1053万', 'open': '3.84', 'hst_clost': '3.87', 'low': '3.84', 'high': '3.92'}
+{'code': '601606', 'name': '长城军工', 'latest': '11.80', 'chg_pct': '1.29%', 'chg': '0.15', 'colume': '27049手', 'amount': '3187万', 'open': '11.56', 'hst_clost': '11.65', 'low': '11.54', 'high': '11.90'}
+{'code': '600543', 'name': '莫高股份', 'latest': '5.57', 'chg_pct': '1.27%', 'chg': '0.07', 'colume': '11577手', 'amount': '643万', 'open': '5.50', 'hst_clost': '5.50', 'low': '5.50', 'high': '5.59'}
+{'code': '603586', 'name': '金麒麟', 'latest': '15.96', 'chg_pct': '1.27%', 'chg': '0.20', 'colume': '2124手', 'amount': '337万', 'open': '15.79', 'hst_clost': '15.76', 'low': '15.70', 'high': '15.97'}
+{'code': '603786', 'name': '科博达', 'latest': '49.52', 'chg_pct': '1.27%', 'chg': '0.62', 'colume': '9390手', 'amount': '4592万', 'open': '48.90', 'hst_clost': '48.90', 'low': '48.11', 'high': '49.66'}
+{'code': '600687', 'name': '*ST刚泰', 'latest': '1.60', 'chg_pct': '1.27%', 'chg': '0.02', 'colume': '39397手', 'amount': '631万', 'open': '1.59', 'hst_clost': '1.58', 'low': '1.58', 'high': '1.63'}
+{'code': '603006', 'name': '联明股份', 'latest': '9.61', 'chg_pct': '1.26%', 'chg': '0.12', 'colume': '4124手', 'amount': '395万', 'open': '9.44', 'hst_clost': '9.49', 'low': '9.44', 'high': '9.65'}
+{'code': '600462', 'name': '*ST九有', 'latest': '1.61', 'chg_pct': '1.26%', 'chg': '0.02', 'colume': '281216手', 'amount': '4587万', 'open': '1.60', 'hst_clost': '1.59', 'low': '1.54', 'high': '1.67'}
+{'code': '603189', 'name': '网达软件', 'latest': '16.13', 'chg_pct': '1.26%', 'chg': '0.20', 'colume': '12473手', 'amount': '2006万', 'open': '15.80', 'hst_clost': '15.93', 'low': '15.80', 'high': '16.26'}
+{'code': '600128', 'name': '弘业股份', 'latest': '7.32', 'chg_pct': '1.25%', 'chg': '0.09', 'colume': '13561手', 'amount': '988万', 'open': '7.21', 'hst_clost': '7.23', 'low': '7.18', 'high': '7.33'}
+{'code': '600011', 'name': '华能国际', 'latest': '5.81', 'chg_pct': '1.22%', 'chg': '0.07', 'colume': '102457手', 'amount': '5925万', 'open': '5.72', 'hst_clost': '5.74', 'low': '5.68', 'high': '5.82'}
+{'code': '601163', 'name': '三角轮胎', 'latest': '14.10', 'chg_pct': '1.22%', 'chg': '0.17', 'colume': '13437手', 'amount': '1885万', 'open': '13.94', 'hst_clost': '13.93', 'low': '13.90', 'high': '14.16'}
+{'code': '600077', 'name': '宋都股份', 'latest': '2.50', 'chg_pct': '1.22%', 'chg': '0.03', 'colume': '8283手', 'amount': '205万', 'open': '2.47', 'hst_clost': '2.47', 'low': '2.45', 'high': '2.50'}
+{'code': '600466', 'name': '蓝光发展', 'latest': '6.74', 'chg_pct': '1.20%', 'chg': '0.08', 'colume': '83887手', 'amount': '5624万', 'open': '6.66', 'hst_clost': '6.66', 'low': '6.60', 'high': '6.75'}
+{'code': '600456', 'name': '宝钛股份', 'latest': '21.92', 'chg_pct': '1.20%', 'chg': '0.26', 'colume': '12769手', 'amount': '2776万', 'open': '21.66', 'hst_clost': '21.66', 'low': '21.41', 'high': '21.99'}
+{'code': '600084', 'name': '*ST中葡', 'latest': '2.54', 'chg_pct': '1.20%', 'chg': '0.03', 'colume': '16833手', 'amount': '425万', 'open': '2.52', 'hst_clost': '2.51', 'low': '2.49', 'high': '2.55'}
+{'code': '603797', 'name': '联泰环保', 'latest': '11.02', 'chg_pct': '1.19%', 'chg': '0.13', 'colume': '10040手', 'amount': '1100万', 'open': '10.86', 'hst_clost': '10.89', 'low': '10.86', 'high': '11.08'}
+{'code': '603105', 'name': '芯能科技', 'latest': '6.81', 'chg_pct': '1.19%', 'chg': '0.08', 'colume': '19927手', 'amount': '1351万', 'open': '6.73', 'hst_clost': '6.73', 'low': '6.70', 'high': '6.83'}
+{}
+{}
+{'code': '600731', 'name': '湖南海利', 'latest': '6.88', 'chg_pct': '1.18%', 'chg': '0.08', 'colume': '12841手', 'amount': '877万', 'open': '6.86', 'hst_clost': '6.80', 'low': '6.75', 'high': '6.90'}
+{'code': '603598', 'name': '引力传媒', 'latest': '7.78', 'chg_pct': '1.17%', 'chg': '0.09', 'colume': '6290手', 'amount': '487万', 'open': '7.69', 'hst_clost': '7.69', 'low': '7.65', 'high': '7.84'}
+{'code': '600888', 'name': '新疆众和', 'latest': '4.36', 'chg_pct': '1.16%', 'chg': '0.05', 'colume': '10185手', 'amount': '441万', 'open': '4.29', 'hst_clost': '4.31', 'low': '4.29', 'high': '4.36'}
+{'code': '603933', 'name': '睿能科技', 'latest': '15.76', 'chg_pct': '1.16%', 'chg': '0.18', 'colume': '13865手', 'amount': '2177万', 'open': '15.50', 'hst_clost': '15.58', 'low': '15.33', 'high': '15.85'}
+{'code': '603355', 'name': '莱克电气', 'latest': '22.97', 'chg_pct': '1.15%', 'chg': '0.26', 'colume': '5597手', 'amount': '1274万', 'open': '22.70', 'hst_clost': '22.71', 'low': '22.46', 'high': '23.09'}
+{'code': '600122', 'name': '宏图高科', 'latest': '2.66', 'chg_pct': '1.14%', 'chg': '0.03', 'colume': '56944手', 'amount': '1494万', 'open': '2.60', 'hst_clost': '2.63', 'low': '2.59', 'high': '2.66'}
+{'code': '600378', 'name': '昊华科技', 'latest': '16.85', 'chg_pct': '1.14%', 'chg': '0.19', 'colume': '5540手', 'amount': '928万', 'open': '16.66', 'hst_clost': '16.66', 'low': '16.50', 'high': '16.93'}
+{'code': '601968', 'name': '宝钢包装', 'latest': '5.36', 'chg_pct': '1.13%', 'chg': '0.06', 'colume': '8629手', 'amount': '460万', 'open': '5.32', 'hst_clost': '5.30', 'low': '5.28', 'high': '5.36'}
+{'code': '603978', 'name': '深圳新星', 'latest': '25.10', 'chg_pct': '1.13%', 'chg': '0.28', 'colume': '6488手', 'amount': '1614万', 'open': '24.66', 'hst_clost': '24.82', 'low': '24.57', 'high': '25.20'}
+{'code': '603063', 'name': '禾望电气', 'latest': '8.12', 'chg_pct': '1.12%', 'chg': '0.09', 'colume': '7778手', 'amount': '639万', 'open': '7.99', 'hst_clost': '8.03', 'low': '7.99', 'high': '8.45'}
+{'code': '603721', 'name': '中广天择', 'latest': '18.32', 'chg_pct': '1.10%', 'chg': '0.20', 'colume': '21684手', 'amount': '3961万', 'open': '18.08', 'hst_clost': '18.12', 'low': '17.52', 'high': '19.93'}
+{'code': '600242', 'name': '中昌数据', 'latest': '7.38', 'chg_pct': '1.10%', 'chg': '0.08', 'colume': '66925手', 'amount': '5001万', 'open': '7.34', 'hst_clost': '7.30', 'low': '7.31', 'high': '7.59'}
+{'code': '603800', 'name': '道森股份', 'latest': '12.07', 'chg_pct': '1.09%', 'chg': '0.13', 'colume': '4833手', 'amount': '585万', 'open': '11.98', 'hst_clost': '11.94', 'low': '11.98', 'high': '12.32'}
+{'code': '601106', 'name': '中国一重', 'latest': '2.80', 'chg_pct': '1.08%', 'chg': '0.03', 'colume': '31184手', 'amount': '866万', 'open': '2.77', 'hst_clost': '2.77', 'low': '2.76', 'high': '2.80'}
+{'code': '603733', 'name': '仙鹤股份', 'latest': '14.00', 'chg_pct': '1.08%', 'chg': '0.15', 'colume': '4023手', 'amount': '562万', 'open': '13.82', 'hst_clost': '13.85', 'low': '13.80', 'high': '14.10'}
+{'code': '600674', 'name': '川投能源', 'latest': '9.38', 'chg_pct': '1.08%', 'chg': '0.10', 'colume': '11777手', 'amount': '1097万', 'open': '9.26', 'hst_clost': '9.28', 'low': '9.25', 'high': '9.39'}
+{'code': '603579', 'name': '荣泰健康', 'latest': '28.23', 'chg_pct': '1.07%', 'chg': '0.30', 'colume': '3479手', 'amount': '973万', 'open': '27.92', 'hst_clost': '27.93', 'low': '27.80', 'high': '28.23'}
+{'code': '600505', 'name': '西昌电力', 'latest': '8.50', 'chg_pct': '1.07%', 'chg': '0.09', 'colume': '15613手', 'amount': '1323万', 'open': '8.49', 'hst_clost': '8.41', 'low': '8.34', 'high': '8.56'}
+{'code': '600760', 'name': '中航沈飞', 'latest': '28.33', 'chg_pct': '1.07%', 'chg': '0.30', 'colume': '28444手', 'amount': '8036万', 'open': '27.99', 'hst_clost': '28.03', 'low': '27.85', 'high': '28.38'}
+{'code': '600290', 'name': '华仪电气', 'latest': '3.79', 'chg_pct': '1.07%', 'chg': '0.04', 'colume': '23915手', 'amount': '904万', 'open': '3.74', 'hst_clost': '3.75', 'low': '3.72', 'high': '3.81'}
+{'code': '603507', 'name': '振江股份', 'latest': '19.09', 'chg_pct': '1.06%', 'chg': '0.20', 'colume': '1515手', 'amount': '288万', 'open': '18.89', 'hst_clost': '18.89', 'low': '18.71', 'high': '19.09'}
+{'code': '600647', 'name': '同达创业', 'latest': '13.70', 'chg_pct': '1.03%', 'chg': '0.14', 'colume': '4860手', 'amount': '661万', 'open': '13.63', 'hst_clost': '13.56', 'low': '13.45', 'high': '13.72'}
+{'code': '600435', 'name': '北方导航', 'latest': '7.94', 'chg_pct': '1.02%', 'chg': '0.08', 'colume': '18893手', 'amount': '1495万', 'open': '7.83', 'hst_clost': '7.86', 'low': '7.81', 'high': '7.96'}
+{'code': '603990', 'name': '麦迪科技', 'latest': '34.77', 'chg_pct': '1.02%', 'chg': '0.35', 'colume': '4783手', 'amount': '1642万', 'open': '34.60', 'hst_clost': '34.42', 'low': '33.70', 'high': '34.95'}
+{'code': '603328', 'name': '依顿电子', 'latest': '9.98', 'chg_pct': '1.01%', 'chg': '0.10', 'colume': '34857手', 'amount': '3453万', 'open': '9.89', 'hst_clost': '9.88', 'low': '9.77', 'high': '10.03'}
+{'code': '600741', 'name': '华域汽车', 'latest': '25.98', 'chg_pct': '1.01%', 'chg': '0.26', 'colume': '21582手', 'amount': '5582万', 'open': '25.79', 'hst_clost': '25.72', 'low': '25.60', 'high': '26.09'}
+{'code': '601882', 'name': '海天精工', 'latest': '7.01', 'chg_pct': '1.01%', 'chg': '0.07', 'colume': '1842手', 'amount': '128万', 'open': '6.92', 'hst_clost': '6.94', 'low': '6.91', 'high': '7.02'}
+{'code': '603982', 'name': '泉峰汽车', 'latest': '17.04', 'chg_pct': '1.01%', 'chg': '0.17', 'colume': '9576手', 'amount': '1625万', 'open': '16.70', 'hst_clost': '16.87', 'low': '16.70', 'high': '17.16'}
+{'code': '603396', 'name': '金辰股份', 'latest': '17.05', 'chg_pct': '1.01%', 'chg': '0.17', 'colume': '1338手', 'amount': '227万', 'open': '16.88', 'hst_clost': '16.88', 'low': '16.85', 'high': '17.10'}
+{'code': '603030', 'name': '全筑股份', 'latest': '7.03', 'chg_pct': '1.01%', 'chg': '0.07', 'colume': '21394手', 'amount': '1498万', 'open': '6.96', 'hst_clost': '6.96', 'low': '6.87', 'high': '7.05'}
+{'code': '601236', 'name': '红塔证券', 'latest': '14.07', 'chg_pct': '1.01%', 'chg': '0.14', 'colume': '143984手', 'amount': '20072万', 'open': '13.74', 'hst_clost': '13.93', 'low': '13.65', 'high': '14.16'}
+{'code': '600778', 'name': '友好集团', 'latest': '5.06', 'chg_pct': '1.00%', 'chg': '0.05', 'colume': '5640手', 'amount': '284万', 'open': '5.10', 'hst_clost': '5.01', 'low': '5.00', 'high': '5.10'}
+{'code': '600527', 'name': '江南高纤', 'latest': '2.03', 'chg_pct': '1.00%', 'chg': '0.02', 'colume': '29559手', 'amount': '597万', 'open': '2.01', 'hst_clost': '2.01', 'low': '2.01', 'high': '2.03'}
+{'code': '600565', 'name': '迪马股份', 'latest': '3.05', 'chg_pct': '0.99%', 'chg': '0.03', 'colume': '21629手', 'amount': '655万', 'open': '3.01', 'hst_clost': '3.02', 'low': '3.00', 'high': '3.05'}
+{'code': '600558', 'name': '大西洋', 'latest': '3.06', 'chg_pct': '0.99%', 'chg': '0.03', 'colume': '3705手', 'amount': '113万', 'open': '3.04', 'hst_clost': '3.03', 'low': '3.01', 'high': '3.06'}
+{'code': '600777', 'name': '新潮能源', 'latest': '2.04', 'chg_pct': '0.99%', 'chg': '0.02', 'colume': '104267手', 'amount': '2114万', 'open': '2.02', 'hst_clost': '2.02', 'low': '2.02', 'high': '2.04'}
+{'code': '601558', 'name': 'ST锐电', 'latest': '1.03', 'chg_pct': '0.98%', 'chg': '0.01', 'colume': '50857手', 'amount': '519万', 'open': '1.02', 'hst_clost': '1.02', 'low': '1.01', 'high': '1.03'}
+{'code': '603602', 'name': '纵横通信', 'latest': '21.75', 'chg_pct': '0.98%', 'chg': '0.21', 'colume': '17774手', 'amount': '3834万', 'open': '21.21', 'hst_clost': '21.54', 'low': '21.03', 'high': '21.85'}
+{'code': '600893', 'name': '航发动力', 'latest': '19.70', 'chg_pct': '0.97%', 'chg': '0.19', 'colume': '15112手', 'amount': '2965万', 'open': '19.50', 'hst_clost': '19.51', 'low': '19.44', 'high': '19.75'}
+{'code': '600977', 'name': '中国电影', 'latest': '13.50', 'chg_pct': '0.97%', 'chg': '0.13', 'colume': '27365手', 'amount': '3674万', 'open': '13.36', 'hst_clost': '13.37', 'low': '13.32', 'high': '13.53'}
+{'code': '600308', 'name': '华泰股份', 'latest': '4.18', 'chg_pct': '0.97%', 'chg': '0.04', 'colume': '21593手', 'amount': '899万', 'open': '4.14', 'hst_clost': '4.14', 'low': '4.12', 'high': '4.19'}
+{'code': '600250', 'name': '南纺股份', 'latest': '6.30', 'chg_pct': '0.96%', 'chg': '0.06', 'colume': '2058手', 'amount': '129万', 'open': '6.29', 'hst_clost': '6.24', 'low': '6.19', 'high': '6.30'}
+{'code': '600636', 'name': '三爱富', 'latest': '9.45', 'chg_pct': '0.96%', 'chg': '0.09', 'colume': '6611手', 'amount': '625万', 'open': '9.36', 'hst_clost': '9.36', 'low': '9.35', 'high': '9.51'}
+{'code': '603986', 'name': '兆易创新', 'latest': '172.00', 'chg_pct': '0.95%', 'chg': '1.62', 'colume': '20533手', 'amount': '34997万', 'open': '167.90', 'hst_clost': '170.38', 'low': '167.01', 'high': '172.90'}
+{'code': '603078', 'name': '江化微', 'latest': '29.83', 'chg_pct': '0.95%', 'chg': '0.28', 'colume': '6620手', 'amount': '1970万', 'open': '29.33', 'hst_clost': '29.55', 'low': '29.11', 'high': '30.05'}
+{'code': '600482', 'name': '中国动力', 'latest': '21.43', 'chg_pct': '0.94%', 'chg': '0.20', 'colume': '8108手', 'amount': '1744万', 'open': '21.23', 'hst_clost': '21.23', 'low': '21.15', 'high': '21.79'}
+{'code': '600155', 'name': '华创阳安', 'latest': '11.87', 'chg_pct': '0.94%', 'chg': '0.11', 'colume': '61000手', 'amount': '7229万', 'open': '11.70', 'hst_clost': '11.76', 'low': '11.60', 'high': '11.96'}
+{'code': '603633', 'name': '徕木股份', 'latest': '8.67', 'chg_pct': '0.93%', 'chg': '0.08', 'colume': '7042手', 'amount': '610万', 'open': '8.59', 'hst_clost': '8.59', 'low': '8.53', 'high': '8.71'}
+{'code': '600871', 'name': '石化油服', 'latest': '2.17', 'chg_pct': '0.93%', 'chg': '0.02', 'colume': '30335手', 'amount': '658万', 'open': '2.15', 'hst_clost': '2.15', 'low': '2.15', 'high': '2.18'}
+{'code': '600316', 'name': '洪都航空', 'latest': '13.07', 'chg_pct': '0.93%', 'chg': '0.12', 'colume': '27723手', 'amount': '3597万', 'open': '12.80', 'hst_clost': '12.95', 'low': '12.75', 'high': '13.10'}
+{}
+{}
+{'code': '603238', 'name': '诺邦股份', 'latest': '17.46', 'chg_pct': '0.93%', 'chg': '0.16', 'colume': '1709手', 'amount': '299万', 'open': '17.35', 'hst_clost': '17.30', 'low': '17.32', 'high': '17.65'}
+{'code': '603818', 'name': '曲美家居', 'latest': '7.66', 'chg_pct': '0.92%', 'chg': '0.07', 'colume': '5003手', 'amount': '382万', 'open': '7.57', 'hst_clost': '7.59', 'low': '7.57', 'high': '7.71'}
+{'code': '603338', 'name': '浙江鼎力', 'latest': '65.98', 'chg_pct': '0.92%', 'chg': '0.60', 'colume': '4955手', 'amount': '3254万', 'open': '65.70', 'hst_clost': '65.38', 'low': '65.19', 'high': '66.00'}
+{'code': '603699', 'name': '纽威股份', 'latest': '13.20', 'chg_pct': '0.92%', 'chg': '0.12', 'colume': '9197手', 'amount': '1217万', 'open': '13.37', 'hst_clost': '13.08', 'low': '13.07', 'high': '13.38'}
+{'code': '603158', 'name': '腾龙股份', 'latest': '14.34', 'chg_pct': '0.92%', 'chg': '0.13', 'colume': '2255手', 'amount': '322万', 'open': '14.00', 'hst_clost': '14.21', 'low': '14.00', 'high': '14.35'}
+{'code': '603918', 'name': '金桥信息', 'latest': '12.24', 'chg_pct': '0.91%', 'chg': '0.11', 'colume': '12689手', 'amount': '1545万', 'open': '12.13', 'hst_clost': '12.13', 'low': '12.03', 'high': '12.30'}
+{'code': '603505', 'name': '金石资源', 'latest': '17.87', 'chg_pct': '0.90%', 'chg': '0.16', 'colume': '7330手', 'amount': '1305万', 'open': '17.71', 'hst_clost': '17.71', 'low': '17.63', 'high': '17.90'}
+{'code': '603966', 'name': '法兰泰克', 'latest': '10.07', 'chg_pct': '0.90%', 'chg': '0.09', 'colume': '5180手', 'amount': '521万', 'open': '9.93', 'hst_clost': '9.98', 'low': '9.90', 'high': '10.12'}
+{'code': '600169', 'name': '太原重工', 'latest': '2.24', 'chg_pct': '0.90%', 'chg': '0.02', 'colume': '15741手', 'amount': '350万', 'open': '2.22', 'hst_clost': '2.22', 'low': '2.21', 'high': '2.24'}
+{'code': '600153', 'name': '建发股份', 'latest': '7.90', 'chg_pct': '0.89%', 'chg': '0.07', 'colume': '44702手', 'amount': '3522万', 'open': '7.89', 'hst_clost': '7.83', 'low': '7.82', 'high': '7.92'}
+{'code': '600121', 'name': '郑州煤电', 'latest': '2.26', 'chg_pct': '0.89%', 'chg': '0.02', 'colume': '34008手', 'amount': '765万', 'open': '2.22', 'hst_clost': '2.24', 'low': '2.20', 'high': '2.28'}
+{'code': '601918', 'name': '新集能源', 'latest': '3.40', 'chg_pct': '0.89%', 'chg': '0.03', 'colume': '194389手', 'amount': '6634万', 'open': '3.37', 'hst_clost': '3.37', 'low': '3.34', 'high': '3.45'}
+{'code': '600387', 'name': '海越能源', 'latest': '8.01', 'chg_pct': '0.88%', 'chg': '0.07', 'colume': '19887手', 'amount': '1598万', 'open': '7.93', 'hst_clost': '7.94', 'low': '7.91', 'high': '8.12'}
+{'code': '600129', 'name': '太极集团', 'latest': '11.51', 'chg_pct': '0.88%', 'chg': '0.10', 'colume': '5999手', 'amount': '688万', 'open': '11.42', 'hst_clost': '11.41', 'low': '11.35', 'high': '11.59'}
+{'code': '600151', 'name': '航天机电', 'latest': '4.64', 'chg_pct': '0.87%', 'chg': '0.04', 'colume': '19096手', 'amount': '882万', 'open': '4.60', 'hst_clost': '4.60', 'low': '4.56', 'high': '4.65'}
+{'code': '603298', 'name': '杭叉集团', 'latest': '12.86', 'chg_pct': '0.86%', 'chg': '0.11', 'colume': '9243手', 'amount': '1183万', 'open': '12.68', 'hst_clost': '12.75', 'low': '12.66', 'high': '12.91'}
+{'code': '601858', 'name': '中国科传', 'latest': '11.73', 'chg_pct': '0.86%', 'chg': '0.10', 'colume': '20575手', 'amount': '2404万', 'open': '11.59', 'hst_clost': '11.63', 'low': '11.50', 'high': '11.78'}
+{'code': '600548', 'name': '深高速', 'latest': '10.60', 'chg_pct': '0.86%', 'chg': '0.09', 'colume': '7905手', 'amount': '834万', 'open': '10.41', 'hst_clost': '10.51', 'low': '10.41', 'high': '10.62'}
+{'code': '600192', 'name': '长城电工', 'latest': '4.75', 'chg_pct': '0.85%', 'chg': '0.04', 'colume': '5862手', 'amount': '277万', 'open': '4.70', 'hst_clost': '4.71', 'low': '4.67', 'high': '4.75'}
+{'code': '600589', 'name': '广东榕泰', 'latest': '4.83', 'chg_pct': '0.84%', 'chg': '0.04', 'colume': '21746手', 'amount': '1054万', 'open': '4.81', 'hst_clost': '4.79', 'low': '4.80', 'high': '4.89'}
+{'code': '600130', 'name': '波导股份', 'latest': '3.63', 'chg_pct': '0.83%', 'chg': '0.03', 'colume': '73186手', 'amount': '2653万', 'open': '3.58', 'hst_clost': '3.60', 'low': '3.55', 'high': '3.70'}
+{'code': '600363', 'name': '联创光电', 'latest': '13.38', 'chg_pct': '0.83%', 'chg': '0.11', 'colume': '59277手', 'amount': '7826万', 'open': '13.24', 'hst_clost': '13.27', 'low': '12.97', 'high': '13.43'}
+{'code': '601199', 'name': '江南水务', 'latest': '3.65', 'chg_pct': '0.83%', 'chg': '0.03', 'colume': '2908手', 'amount': '106万', 'open': '3.62', 'hst_clost': '3.62', 'low': '3.62', 'high': '3.66'}
+{'code': '600038', 'name': '中直股份', 'latest': '44.12', 'chg_pct': '0.82%', 'chg': '0.36', 'colume': '11587手', 'amount': '5106万', 'open': '43.60', 'hst_clost': '43.76', 'low': '43.52', 'high': '44.30'}
+{'code': '603069', 'name': '海汽集团', 'latest': '7.42', 'chg_pct': '0.82%', 'chg': '0.06', 'colume': '10367手', 'amount': '765万', 'open': '7.27', 'hst_clost': '7.36', 'low': '7.24', 'high': '7.44'}
+{'code': '600209', 'name': 'ST罗顿', 'latest': '2.49', 'chg_pct': '0.81%', 'chg': '0.02', 'colume': '11488手', 'amount': '285万', 'open': '2.47', 'hst_clost': '2.47', 'low': '2.45', 'high': '2.51'}
+{'code': '600037', 'name': '歌华有线', 'latest': '8.80', 'chg_pct': '0.80%', 'chg': '0.07', 'colume': '16692手', 'amount': '1470万', 'open': '8.74', 'hst_clost': '8.73', 'low': '8.74', 'high': '8.87'}
+{'code': '600664', 'name': '哈药股份', 'latest': '3.79', 'chg_pct': '0.80%', 'chg': '0.03', 'colume': '18653手', 'amount': '704万', 'open': '3.75', 'hst_clost': '3.76', 'low': '3.74', 'high': '3.79'}
+{'code': '600426', 'name': '华鲁恒升', 'latest': '16.47', 'chg_pct': '0.80%', 'chg': '0.13', 'colume': '18867手', 'amount': '3091万', 'open': '16.35', 'hst_clost': '16.34', 'low': '16.25', 'high': '16.49'}
+{'code': '601107', 'name': '四川成渝', 'latest': '3.82', 'chg_pct': '0.79%', 'chg': '0.03', 'colume': '15584手', 'amount': '591万', 'open': '3.80', 'hst_clost': '3.79', 'low': '3.76', 'high': '3.82'}
+{'code': '600765', 'name': '中航重机', 'latest': '8.95', 'chg_pct': '0.79%', 'chg': '0.07', 'colume': '18259手', 'amount': '1627万', 'open': '8.84', 'hst_clost': '8.88', 'low': '8.83', 'high': '8.97'}
+{'code': '600010', 'name': '包钢股份', 'latest': '1.28', 'chg_pct': '0.79%', 'chg': '0.01', 'colume': '790404手', 'amount': '10123万', 'open': '1.28', 'hst_clost': '1.27', 'low': '1.27', 'high': '1.29'}
+{'code': '600593', 'name': '大连圣亚', 'latest': '41.21', 'chg_pct': '0.78%', 'chg': '0.32', 'colume': '2859手', 'amount': '1172万', 'open': '40.95', 'hst_clost': '40.89', 'low': '40.73', 'high': '41.26'}
+{'code': '600523', 'name': '贵航股份', 'latest': '13.06', 'chg_pct': '0.77%', 'chg': '0.10', 'colume': '6375手', 'amount': '830万', 'open': '13.00', 'hst_clost': '12.96', 'low': '12.91', 'high': '13.15'}
+{'code': '600739', 'name': '辽宁成大', 'latest': '14.41', 'chg_pct': '0.77%', 'chg': '0.11', 'colume': '29930手', 'amount': '4305万', 'open': '14.25', 'hst_clost': '14.30', 'low': '14.21', 'high': '14.45'}
+{'code': '600446', 'name': '金证股份', 'latest': '19.70', 'chg_pct': '0.77%', 'chg': '0.15', 'colume': '42131手', 'amount': '8266万', 'open': '19.38', 'hst_clost': '19.55', 'low': '19.28', 'high': '19.80'}
+{'code': '603267', 'name': '鸿远电子', 'latest': '48.45', 'chg_pct': '0.75%', 'chg': '0.36', 'colume': '9528手', 'amount': '4596万', 'open': '48.08', 'hst_clost': '48.09', 'low': '47.52', 'high': '48.79'}
+{'code': '600309', 'name': '万华化学', 'latest': '46.34', 'chg_pct': '0.74%', 'chg': '0.34', 'colume': '28743手', 'amount': '13226万', 'open': '45.81', 'hst_clost': '46.00', 'low': '45.66', 'high': '46.44'}
+{'code': '600395', 'name': '盘江股份', 'latest': '5.48', 'chg_pct': '0.74%', 'chg': '0.04', 'colume': '52033手', 'amount': '2850万', 'open': '5.40', 'hst_clost': '5.44', 'low': '5.40', 'high': '5.53'}
+{'code': '600892', 'name': '大晟文化', 'latest': '5.48', 'chg_pct': '0.74%', 'chg': '0.04', 'colume': '15290手', 'amount': '835万', 'open': '5.47', 'hst_clost': '5.44', 'low': '5.37', 'high': '5.53'}
+{'code': '600109', 'name': '国金证券', 'latest': '8.26', 'chg_pct': '0.73%', 'chg': '0.06', 'colume': '35415手', 'amount': '2914万', 'open': '8.18', 'hst_clost': '8.20', 'low': '8.16', 'high': '8.28'}
+{'code': '600758', 'name': '红阳能源', 'latest': '4.13', 'chg_pct': '0.73%', 'chg': '0.03', 'colume': '32297手', 'amount': '1326万', 'open': '4.09', 'hst_clost': '4.10', 'low': '4.06', 'high': '4.14'}
+{'code': '600535', 'name': '天士力', 'latest': '15.23', 'chg_pct': '0.73%', 'chg': '0.11', 'colume': '40704手', 'amount': '6126万', 'open': '15.06', 'hst_clost': '15.12', 'low': '14.92', 'high': '15.25'}
+{'code': '603803', 'name': '瑞斯康达', 'latest': '12.48', 'chg_pct': '0.73%', 'chg': '0.09', 'colume': '7317手', 'amount': '910万', 'open': '12.37', 'hst_clost': '12.39', 'low': '12.33', 'high': '12.52'}
+{'code': '600968', 'name': '海油发展', 'latest': '2.78', 'chg_pct': '0.73%', 'chg': '0.02', 'colume': '93835手', 'amount': '2596万', 'open': '2.77', 'hst_clost': '2.76', 'low': '2.75', 'high': '2.79'}
+{'code': '601857', 'name': '中国石油', 'latest': '5.56', 'chg_pct': '0.73%', 'chg': '0.04', 'colume': '267513手', 'amount': '14787万', 'open': '5.52', 'hst_clost': '5.52', 'low': '5.50', 'high': '5.56'}
+{'code': '600012', 'name': '皖通高速', 'latest': '5.57', 'chg_pct': '0.72%', 'chg': '0.04', 'colume': '4526手', 'amount': '251万', 'open': '5.54', 'hst_clost': '5.53', 'low': '5.53', 'high': '5.58'}
+{'code': '600821', 'name': '津劝业', 'latest': '4.18', 'chg_pct': '0.72%', 'chg': '0.03', 'colume': '9999手', 'amount': '414万', 'open': '4.14', 'hst_clost': '4.15', 'low': '4.09', 'high': '4.19'}
+{'code': '600882', 'name': '妙可蓝多', 'latest': '13.93', 'chg_pct': '0.72%', 'chg': '0.10', 'colume': '6158手', 'amount': '849万', 'open': '13.73', 'hst_clost': '13.83', 'low': '13.62', 'high': '13.93'}
+{'code': '600172', 'name': '黄河旋风', 'latest': '2.79', 'chg_pct': '0.72%', 'chg': '0.02', 'colume': '24292手', 'amount': '677万', 'open': '2.76', 'hst_clost': '2.77', 'low': '2.76', 'high': '2.81'}
+{}
+{}
+{'code': '600889', 'name': '南京化纤', 'latest': '4.21', 'chg_pct': '0.72%', 'chg': '0.03', 'colume': '5140手', 'amount': '216万', 'open': '4.18', 'hst_clost': '4.18', 'low': '4.13', 'high': '4.22'}
+{'code': '600963', 'name': '岳阳林纸', 'latest': '4.21', 'chg_pct': '0.72%', 'chg': '0.03', 'colume': '16869手', 'amount': '709万', 'open': '4.16', 'hst_clost': '4.18', 'low': '4.16', 'high': '4.24'}
+{'code': '603268', 'name': '松发股份', 'latest': '15.44', 'chg_pct': '0.72%', 'chg': '0.11', 'colume': '1982手', 'amount': '307万', 'open': '15.11', 'hst_clost': '15.33', 'low': '15.11', 'high': '15.66'}
+{'code': '603968', 'name': '醋化股份', 'latest': '14.08', 'chg_pct': '0.72%', 'chg': '0.10', 'colume': '1400手', 'amount': '197万', 'open': '14.06', 'hst_clost': '13.98', 'low': '13.95', 'high': '14.14'}
+{'code': '600641', 'name': '万业企业', 'latest': '14.11', 'chg_pct': '0.71%', 'chg': '0.10', 'colume': '36505手', 'amount': '5139万', 'open': '13.99', 'hst_clost': '14.01', 'low': '13.90', 'high': '14.22'}
+{'code': '600698', 'name': '*ST天雁', 'latest': '2.84', 'chg_pct': '0.71%', 'chg': '0.02', 'colume': '10947手', 'amount': '309万', 'open': '2.81', 'hst_clost': '2.82', 'low': '2.81', 'high': '2.85'}
+{'code': '603959', 'name': '百利科技', 'latest': '8.55', 'chg_pct': '0.71%', 'chg': '0.06', 'colume': '11911手', 'amount': '1015万', 'open': '8.47', 'hst_clost': '8.49', 'low': '8.42', 'high': '8.59'}
+{'code': '600252', 'name': '中恒集团', 'latest': '2.91', 'chg_pct': '0.69%', 'chg': '0.02', 'colume': '55593手', 'amount': '1606万', 'open': '2.89', 'hst_clost': '2.89', 'low': '2.87', 'high': '2.92'}
+{'code': '603656', 'name': '泰禾光电', 'latest': '14.59', 'chg_pct': '0.69%', 'chg': '0.10', 'colume': '611手', 'amount': '89万', 'open': '14.44', 'hst_clost': '14.49', 'low': '14.34', 'high': '14.65'}
+{'code': '600745', 'name': '闻泰科技', 'latest': '81.95', 'chg_pct': '0.69%', 'chg': '0.56', 'colume': '37811手', 'amount': '30720万', 'open': '80.66', 'hst_clost': '81.39', 'low': '80.00', 'high': '82.36'}
+{'code': '600138', 'name': '中青旅', 'latest': '11.74', 'chg_pct': '0.69%', 'chg': '0.08', 'colume': '12221手', 'amount': '1428万', 'open': '11.66', 'hst_clost': '11.66', 'low': '11.54', 'high': '11.75'}
+{'code': '601900', 'name': '南方传媒', 'latest': '8.84', 'chg_pct': '0.68%', 'chg': '0.06', 'colume': '4576手', 'amount': '403万', 'open': '8.79', 'hst_clost': '8.78', 'low': '8.74', 'high': '8.85'}
+{'code': '600719', 'name': '大连热电', 'latest': '4.47', 'chg_pct': '0.68%', 'chg': '0.03', 'colume': '3283手', 'amount': '146万', 'open': '4.43', 'hst_clost': '4.44', 'low': '4.41', 'high': '4.48'}
+{'code': '603136', 'name': '天目湖', 'latest': '25.37', 'chg_pct': '0.68%', 'chg': '0.17', 'colume': '2635手', 'amount': '666万', 'open': '25.39', 'hst_clost': '25.20', 'low': '24.88', 'high': '25.48'}
+{'code': '600235', 'name': '民丰特纸', 'latest': '4.49', 'chg_pct': '0.67%', 'chg': '0.03', 'colume': '14382手', 'amount': '645万', 'open': '4.44', 'hst_clost': '4.46', 'low': '4.42', 'high': '4.51'}
+{'code': '603199', 'name': '九华旅游', 'latest': '22.46', 'chg_pct': '0.67%', 'chg': '0.15', 'colume': '665手', 'amount': '149万', 'open': '22.31', 'hst_clost': '22.31', 'low': '22.25', 'high': '22.48'}
+{'code': '600960', 'name': '渤海汽车', 'latest': '3.00', 'chg_pct': '0.67%', 'chg': '0.02', 'colume': '11757手', 'amount': '350万', 'open': '2.96', 'hst_clost': '2.98', 'low': '2.94', 'high': '3.01'}
+{'code': '603311', 'name': '金海环境', 'latest': '10.51', 'chg_pct': '0.67%', 'chg': '0.07', 'colume': '3290手', 'amount': '343万', 'open': '10.40', 'hst_clost': '10.44', 'low': '10.34', 'high': '10.52'}
+{'code': '603032', 'name': '德新交运', 'latest': '22.72', 'chg_pct': '0.67%', 'chg': '0.15', 'colume': '4449手', 'amount': '1009万', 'open': '22.50', 'hst_clost': '22.57', 'low': '22.43', 'high': '22.79'}
+{'code': '600261', 'name': '阳光照明', 'latest': '4.57', 'chg_pct': '0.66%', 'chg': '0.03', 'colume': '41544手', 'amount': '1896万', 'open': '4.55', 'hst_clost': '4.54', 'low': '4.53', 'high': '4.61'}
+{'code': '600675', 'name': '中华企业', 'latest': '4.58', 'chg_pct': '0.66%', 'chg': '0.03', 'colume': '9823手', 'amount': '448万', 'open': '4.56', 'hst_clost': '4.55', 'low': '4.54', 'high': '4.58'}
+{'code': '600671', 'name': '天目药业', 'latest': '12.26', 'chg_pct': '0.66%', 'chg': '0.08', 'colume': '3362手', 'amount': '411万', 'open': '12.18', 'hst_clost': '12.18', 'low': '12.13', 'high': '12.29'}
+{'code': '603609', 'name': '禾丰牧业', 'latest': '12.29', 'chg_pct': '0.66%', 'chg': '0.08', 'colume': '19542手', 'amount': '2393万', 'open': '12.25', 'hst_clost': '12.21', 'low': '12.10', 'high': '12.35'}
+{'code': '600815', 'name': '*ST厦工', 'latest': '3.09', 'chg_pct': '0.65%', 'chg': '0.02', 'colume': '7516手', 'amount': '232万', 'open': '3.07', 'hst_clost': '3.07', 'low': '3.07', 'high': '3.12'}
+{'code': '603787', 'name': '新日股份', 'latest': '13.96', 'chg_pct': '0.65%', 'chg': '0.09', 'colume': '41704手', 'amount': '5797万', 'open': '13.70', 'hst_clost': '13.87', 'low': '13.61', 'high': '14.07'}
+{'code': '603819', 'name': '神力股份', 'latest': '15.60', 'chg_pct': '0.65%', 'chg': '0.10', 'colume': '9042手', 'amount': '1408万', 'open': '15.35', 'hst_clost': '15.50', 'low': '15.35', 'high': '15.69'}
+{'code': '600118', 'name': '中国卫星', 'latest': '20.40', 'chg_pct': '0.64%', 'chg': '0.13', 'colume': '12050手', 'amount': '2453万', 'open': '20.20', 'hst_clost': '20.27', 'low': '20.15', 'high': '20.45'}
+{'code': '600722', 'name': '金牛化工', 'latest': '4.76', 'chg_pct': '0.63%', 'chg': '0.03', 'colume': '8137手', 'amount': '387万', 'open': '4.71', 'hst_clost': '4.73', 'low': '4.71', 'high': '4.78'}
+{'code': '603568', 'name': '伟明环保', 'latest': '22.25', 'chg_pct': '0.63%', 'chg': '0.14', 'colume': '8037手', 'amount': '1778万', 'open': '22.18', 'hst_clost': '22.11', 'low': '21.86', 'high': '22.30'}
+{'code': '600117', 'name': '西宁特钢', 'latest': '3.19', 'chg_pct': '0.63%', 'chg': '0.02', 'colume': '8352手', 'amount': '265万', 'open': '3.15', 'hst_clost': '3.17', 'low': '3.15', 'high': '3.20'}
+{'code': '603185', 'name': '上机数控', 'latest': '24.00', 'chg_pct': '0.63%', 'chg': '0.15', 'colume': '3080手', 'amount': '734万', 'open': '23.70', 'hst_clost': '23.85', 'low': '23.65', 'high': '24.02'}
+{'code': '600256', 'name': '广汇能源', 'latest': '3.23', 'chg_pct': '0.62%', 'chg': '0.02', 'colume': '44504手', 'amount': '1430万', 'open': '3.21', 'hst_clost': '3.21', 'low': '3.20', 'high': '3.24'}
+{'code': '603319', 'name': '湘油泵', 'latest': '16.14', 'chg_pct': '0.62%', 'chg': '0.10', 'colume': '733手', 'amount': '118万', 'open': '16.22', 'hst_clost': '16.04', 'low': '16.04', 'high': '16.24'}
+{'code': '600992', 'name': '贵绳股份', 'latest': '6.49', 'chg_pct': '0.62%', 'chg': '0.04', 'colume': '2311手', 'amount': '149万', 'open': '6.46', 'hst_clost': '6.45', 'low': '6.42', 'high': '6.49'}
+{'code': '600996', 'name': '贵广网络', 'latest': '8.22', 'chg_pct': '0.61%', 'chg': '0.05', 'colume': '10547手', 'amount': '864万', 'open': '8.22', 'hst_clost': '8.17', 'low': '8.14', 'high': '8.23'}
+{'code': '603121', 'name': '华培动力', 'latest': '26.55', 'chg_pct': '0.61%', 'chg': '0.16', 'colume': '73738手', 'amount': '18727万', 'open': '25.70', 'hst_clost': '26.39', 'low': '24.81', 'high': '26.60'}
+{'code': '600237', 'name': '铜峰电子', 'latest': '3.33', 'chg_pct': '0.60%', 'chg': '0.02', 'colume': '15085手', 'amount': '500万', 'open': '3.29', 'hst_clost': '3.31', 'low': '3.28', 'high': '3.35'}
+{'code': '600825', 'name': '新华传媒', 'latest': '5.00', 'chg_pct': '0.60%', 'chg': '0.03', 'colume': '29136手', 'amount': '1452万', 'open': '4.93', 'hst_clost': '4.97', 'low': '4.93', 'high': '5.02'}
+{'code': '600860', 'name': '京城股份', 'latest': '5.02', 'chg_pct': '0.60%', 'chg': '0.03', 'colume': '2528手', 'amount': '127万', 'open': '4.98', 'hst_clost': '4.99', 'low': '4.96', 'high': '5.02'}
+{'code': '600193', 'name': 'ST创兴', 'latest': '3.37', 'chg_pct': '0.60%', 'chg': '0.02', 'colume': '2744手', 'amount': '92万', 'open': '3.35', 'hst_clost': '3.35', 'low': '3.34', 'high': '3.38'}
+{'code': '603416', 'name': '信捷电气', 'latest': '26.98', 'chg_pct': '0.60%', 'chg': '0.16', 'colume': '374手', 'amount': '101万', 'open': '26.70', 'hst_clost': '26.82', 'low': '26.70', 'high': '27.05'}
+{'code': '600702', 'name': '舍得酒业', 'latest': '30.64', 'chg_pct': '0.59%', 'chg': '0.18', 'colume': '32547手', 'amount': '9926万', 'open': '30.41', 'hst_clost': '30.46', 'low': '30.15', 'high': '30.78'}
+{'code': '600933', 'name': '爱柯迪', 'latest': '11.91', 'chg_pct': '0.59%', 'chg': '0.07', 'colume': '7121手', 'amount': '838万', 'open': '11.84', 'hst_clost': '11.84', 'low': '11.65', 'high': '11.94'}
+{'code': '603559', 'name': '中通国脉', 'latest': '18.73', 'chg_pct': '0.59%', 'chg': '0.11', 'colume': '5468手', 'amount': '1023万', 'open': '18.67', 'hst_clost': '18.62', 'low': '18.52', 'high': '18.83'}
+{'code': '603698', 'name': '航天工程', 'latest': '12.01', 'chg_pct': '0.59%', 'chg': '0.07', 'colume': '3020手', 'amount': '361万', 'open': '11.94', 'hst_clost': '11.94', 'low': '11.79', 'high': '12.05'}
+{'code': '601801', 'name': '皖新传媒', 'latest': '5.18', 'chg_pct': '0.58%', 'chg': '0.03', 'colume': '8514手', 'amount': '437万', 'open': '5.14', 'hst_clost': '5.15', 'low': '5.10', 'high': '5.18'}
+{'code': '600875', 'name': '东方电气', 'latest': '8.66', 'chg_pct': '0.58%', 'chg': '0.05', 'colume': '12422手', 'amount': '1069万', 'open': '8.59', 'hst_clost': '8.61', 'low': '8.53', 'high': '8.67'}
+{'code': '601700', 'name': '风范股份', 'latest': '5.19', 'chg_pct': '0.58%', 'chg': '0.03', 'colume': '21136手', 'amount': '1093万', 'open': '5.12', 'hst_clost': '5.16', 'low': '5.12', 'high': '5.20'}
+{'code': '603758', 'name': '秦安股份', 'latest': '5.21', 'chg_pct': '0.58%', 'chg': '0.03', 'colume': '5019手', 'amount': '262万', 'open': '5.18', 'hst_clost': '5.18', 'low': '5.14', 'high': '5.24'}
+{'code': '600396', 'name': '*ST金山', 'latest': '1.74', 'chg_pct': '0.58%', 'chg': '0.01', 'colume': '5505手', 'amount': '95万', 'open': '1.73', 'hst_clost': '1.73', 'low': '1.72', 'high': '1.74'}
+{}
+{}
+{'code': '603799', 'name': '华友钴业', 'latest': '27.96', 'chg_pct': '0.58%', 'chg': '0.16', 'colume': '196186手', 'amount': '54713万', 'open': '27.82', 'hst_clost': '27.80', 'low': '27.57', 'high': '28.28'}
+{'code': '600175', 'name': '美都能源', 'latest': '1.75', 'chg_pct': '0.58%', 'chg': '0.01', 'colume': '114748手', 'amount': '1991万', 'open': '1.73', 'hst_clost': '1.74', 'low': '1.71', 'high': '1.77'}
+{'code': '600724', 'name': '宁波富达', 'latest': '3.52', 'chg_pct': '0.57%', 'chg': '0.02', 'colume': '11104手', 'amount': '393万', 'open': '3.47', 'hst_clost': '3.50', 'low': '3.47', 'high': '3.61'}
+{'code': '600119', 'name': '*ST长投', 'latest': '5.36', 'chg_pct': '0.56%', 'chg': '0.03', 'colume': '4716手', 'amount': '253万', 'open': '5.30', 'hst_clost': '5.33', 'low': '5.28', 'high': '5.40'}
+{'code': '603777', 'name': '来伊份', 'latest': '10.81', 'chg_pct': '0.56%', 'chg': '0.06', 'colume': '5829手', 'amount': '628万', 'open': '10.71', 'hst_clost': '10.75', 'low': '10.67', 'high': '10.85'}
+{'code': '600483', 'name': '福能股份', 'latest': '9.08', 'chg_pct': '0.55%', 'chg': '0.05', 'colume': '8790手', 'amount': '799万', 'open': '9.10', 'hst_clost': '9.03', 'low': '9.02', 'high': '9.15'}
+{'code': '600857', 'name': '宁波中百', 'latest': '9.26', 'chg_pct': '0.54%', 'chg': '0.05', 'colume': '1038手', 'amount': '96万', 'open': '9.17', 'hst_clost': '9.21', 'low': '9.17', 'high': '9.34'}
+{'code': '601002', 'name': '晋亿实业', 'latest': '5.58', 'chg_pct': '0.54%', 'chg': '0.03', 'colume': '7365手', 'amount': '409万', 'open': '5.54', 'hst_clost': '5.55', 'low': '5.50', 'high': '5.59'}
+{'code': '603778', 'name': '乾景园林', 'latest': '5.58', 'chg_pct': '0.54%', 'chg': '0.03', 'colume': '35913手', 'amount': '1988万', 'open': '5.57', 'hst_clost': '5.55', 'low': '5.46', 'high': '5.62'}
+{'code': '601788', 'name': '光大证券', 'latest': '11.17', 'chg_pct': '0.54%', 'chg': '0.06', 'colume': '29081手', 'amount': '3240万', 'open': '11.08', 'hst_clost': '11.11', 'low': '11.04', 'high': '11.23'}
+{'code': '600161', 'name': '天坛生物', 'latest': '27.98', 'chg_pct': '0.54%', 'chg': '0.15', 'colume': '16136手', 'amount': '4485万', 'open': '27.80', 'hst_clost': '27.83', 'low': '27.50', 'high': '28.09'}
+{'code': '600703', 'name': '三安光电', 'latest': '16.85', 'chg_pct': '0.54%', 'chg': '0.09', 'colume': '473348手', 'amount': '79745万', 'open': '16.70', 'hst_clost': '16.76', 'low': '16.54', 'high': '17.01'}
+{'code': '603889', 'name': '新澳股份', 'latest': '5.65', 'chg_pct': '0.53%', 'chg': '0.03', 'colume': '9099手', 'amount': '514万', 'open': '5.58', 'hst_clost': '5.62', 'low': '5.58', 'high': '5.68'}
+{'code': '600166', 'name': '福田汽车', 'latest': '1.89', 'chg_pct': '0.53%', 'chg': '0.01', 'colume': '62977手', 'amount': '1183万', 'open': '1.88', 'hst_clost': '1.88', 'low': '1.87', 'high': '1.89'}
+{'code': '603538', 'name': '美诺华', 'latest': '24.59', 'chg_pct': '0.53%', 'chg': '0.13', 'colume': '15867手', 'amount': '3884万', 'open': '24.44', 'hst_clost': '24.46', 'low': '24.20', 'high': '24.65'}
+{'code': '600897', 'name': '厦门空港', 'latest': '20.94', 'chg_pct': '0.53%', 'chg': '0.11', 'colume': '1878手', 'amount': '391万', 'open': '20.72', 'hst_clost': '20.83', 'low': '20.67', 'high': '20.95'}
+{'code': '600642', 'name': '申能股份', 'latest': '5.72', 'chg_pct': '0.53%', 'chg': '0.03', 'colume': '14329手', 'amount': '814万', 'open': '5.67', 'hst_clost': '5.69', 'low': '5.66', 'high': '5.72'}
+{'code': '603899', 'name': '晨光文具', 'latest': '49.70', 'chg_pct': '0.53%', 'chg': '0.26', 'colume': '13305手', 'amount': '6597万', 'open': '49.59', 'hst_clost': '49.44', 'low': '49.08', 'high': '49.89'}
+{'code': '600110', 'name': '诺德股份', 'latest': '3.83', 'chg_pct': '0.53%', 'chg': '0.02', 'colume': '24285手', 'amount': '926万', 'open': '3.81', 'hst_clost': '3.81', 'low': '3.77', 'high': '3.84'}
+{'code': '600879', 'name': '航天电子', 'latest': '5.80', 'chg_pct': '0.52%', 'chg': '0.03', 'colume': '41963手', 'amount': '2432万', 'open': '5.76', 'hst_clost': '5.77', 'low': '5.72', 'high': '5.82'}
+{'code': '600845', 'name': '宝信软件', 'latest': '35.26', 'chg_pct': '0.51%', 'chg': '0.18', 'colume': '18317手', 'amount': '6418万', 'open': '35.00', 'hst_clost': '35.08', 'low': '34.69', 'high': '35.38'}
+{'code': '600398', 'name': '海澜之家', 'latest': '7.86', 'chg_pct': '0.51%', 'chg': '0.04', 'colume': '21463手', 'amount': '1682万', 'open': '7.79', 'hst_clost': '7.82', 'low': '7.75', 'high': '7.89'}
+{'code': '603977', 'name': '国泰集团', 'latest': '7.93', 'chg_pct': '0.51%', 'chg': '0.04', 'colume': '3015手', 'amount': '239万', 'open': '7.90', 'hst_clost': '7.89', 'low': '7.84', 'high': '7.97'}
+{'code': '600103', 'name': '青山纸业', 'latest': '1.99', 'chg_pct': '0.51%', 'chg': '0.01', 'colume': '20265手', 'amount': '403万', 'open': '1.98', 'hst_clost': '1.98', 'low': '1.97', 'high': '2.00'}
+{'code': '600480', 'name': '凌云股份', 'latest': '5.99', 'chg_pct': '0.50%', 'chg': '0.03', 'colume': '9563手', 'amount': '570万', 'open': '5.95', 'hst_clost': '5.96', 'low': '5.91', 'high': '6.00'}
+{'code': '603025', 'name': '大豪科技', 'latest': '8.01', 'chg_pct': '0.50%', 'chg': '0.04', 'colume': '4123手', 'amount': '329万', 'open': '7.95', 'hst_clost': '7.97', 'low': '7.89', 'high': '8.04'}
+{'code': '600346', 'name': '恒力石化', 'latest': '14.06', 'chg_pct': '0.50%', 'chg': '0.07', 'colume': '49357手', 'amount': '6936万', 'open': '14.09', 'hst_clost': '13.99', 'low': '13.97', 'high': '14.17'}
+{'code': '600212', 'name': '江泉实业', 'latest': '4.04', 'chg_pct': '0.50%', 'chg': '0.02', 'colume': '56521手', 'amount': '2263万', 'open': '3.97', 'hst_clost': '4.02', 'low': '3.96', 'high': '4.07'}
+{'code': '600768', 'name': '宁波富邦', 'latest': '10.11', 'chg_pct': '0.50%', 'chg': '0.05', 'colume': '1391手', 'amount': '140万', 'open': '10.09', 'hst_clost': '10.06', 'low': '9.98', 'high': '10.12'}
+{'code': '600156', 'name': '华升股份', 'latest': '4.09', 'chg_pct': '0.49%', 'chg': '0.02', 'colume': '5826手', 'amount': '238万', 'open': '4.09', 'hst_clost': '4.07', 'low': '4.05', 'high': '4.12'}
+{'code': '603458', 'name': '勘设股份', 'latest': '18.41', 'chg_pct': '0.49%', 'chg': '0.09', 'colume': '3272手', 'amount': '600万', 'open': '18.31', 'hst_clost': '18.32', 'low': '18.26', 'high': '18.43'}
+{'code': '601598', 'name': '中国外运', 'latest': '4.11', 'chg_pct': '0.49%', 'chg': '0.02', 'colume': '33505手', 'amount': '1371万', 'open': '4.08', 'hst_clost': '4.09', 'low': '4.06', 'high': '4.12'}
+{'code': '601117', 'name': '中国化学', 'latest': '6.18', 'chg_pct': '0.49%', 'chg': '0.03', 'colume': '52722手', 'amount': '3245万', 'open': '6.13', 'hst_clost': '6.15', 'low': '6.12', 'high': '6.21'}
+{'code': '603366', 'name': '日出东方', 'latest': '4.13', 'chg_pct': '0.49%', 'chg': '0.02', 'colume': '40954手', 'amount': '1681万', 'open': '4.09', 'hst_clost': '4.11', 'low': '4.04', 'high': '4.17'}
+{'code': '600706', 'name': '曲江文旅', 'latest': '8.36', 'chg_pct': '0.48%', 'chg': '0.04', 'colume': '2289手', 'amount': '191万', 'open': '8.31', 'hst_clost': '8.32', 'low': '8.30', 'high': '8.40'}
+{'code': '600076', 'name': '康欣新材', 'latest': '4.19', 'chg_pct': '0.48%', 'chg': '0.02', 'colume': '22805手', 'amount': '956万', 'open': '4.19', 'hst_clost': '4.17', 'low': '4.17', 'high': '4.21'}
+{'code': '603023', 'name': '威帝股份', 'latest': '4.22', 'chg_pct': '0.48%', 'chg': '0.02', 'colume': '8035手', 'amount': '339万', 'open': '4.15', 'hst_clost': '4.20', 'low': '4.14', 'high': '4.26'}
+{'code': '603036', 'name': '如通股份', 'latest': '10.61', 'chg_pct': '0.47%', 'chg': '0.05', 'colume': '2362手', 'amount': '249万', 'open': '10.57', 'hst_clost': '10.56', 'low': '10.49', 'high': '10.62'}
+{'code': '603227', 'name': '雪峰科技', 'latest': '4.27', 'chg_pct': '0.47%', 'chg': '0.02', 'colume': '19804手', 'amount': '840万', 'open': '4.26', 'hst_clost': '4.25', 'low': '4.20', 'high': '4.29'}
+{'code': '600089', 'name': '特变电工', 'latest': '6.42', 'chg_pct': '0.47%', 'chg': '0.03', 'colume': '21924手', 'amount': '1404万', 'open': '6.39', 'hst_clost': '6.39', 'low': '6.36', 'high': '6.44'}
+{'code': '600560', 'name': '金自天正', 'latest': '8.57', 'chg_pct': '0.47%', 'chg': '0.04', 'colume': '2548手', 'amount': '217万', 'open': '8.51', 'hst_clost': '8.53', 'low': '8.49', 'high': '8.58'}
+{'code': '600369', 'name': '西南证券', 'latest': '4.31', 'chg_pct': '0.47%', 'chg': '0.02', 'colume': '36651手', 'amount': '1572万', 'open': '4.26', 'hst_clost': '4.29', 'low': '4.26', 'high': '4.32'}
+{'code': '600846', 'name': '同济科技', 'latest': '8.63', 'chg_pct': '0.47%', 'chg': '0.04', 'colume': '40089手', 'amount': '3448万', 'open': '8.55', 'hst_clost': '8.59', 'low': '8.52', 'high': '8.66'}
+{'code': '600408', 'name': 'ST安泰', 'latest': '2.16', 'chg_pct': '0.47%', 'chg': '0.01', 'colume': '16020手', 'amount': '344万', 'open': '2.14', 'hst_clost': '2.15', 'low': '2.12', 'high': '2.17'}
+{'code': '603060', 'name': '国检集团', 'latest': '21.70', 'chg_pct': '0.46%', 'chg': '0.10', 'colume': '4945手', 'amount': '1065万', 'open': '21.60', 'hst_clost': '21.60', 'low': '21.31', 'high': '21.78'}
+{'code': '600606', 'name': '绿地控股', 'latest': '6.52', 'chg_pct': '0.46%', 'chg': '0.03', 'colume': '49919手', 'amount': '3246万', 'open': '6.47', 'hst_clost': '6.49', 'low': '6.45', 'high': '6.54'}
+{'code': '600623', 'name': '华谊集团', 'latest': '6.52', 'chg_pct': '0.46%', 'chg': '0.03', 'colume': '7369手', 'amount': '477万', 'open': '6.45', 'hst_clost': '6.49', 'low': '6.45', 'high': '6.52'}
+{'code': '603518', 'name': '锦泓集团', 'latest': '6.54', 'chg_pct': '0.46%', 'chg': '0.03', 'colume': '1793手', 'amount': '117万', 'open': '6.47', 'hst_clost': '6.51', 'low': '6.47', 'high': '6.55'}
+{'code': '600827', 'name': '百联股份', 'latest': '8.75', 'chg_pct': '0.46%', 'chg': '0.04', 'colume': '6516手', 'amount': '568万', 'open': '8.75', 'hst_clost': '8.71', 'low': '8.66', 'high': '8.76'}
+{'code': '603106', 'name': '恒银金融', 'latest': '8.78', 'chg_pct': '0.46%', 'chg': '0.04', 'colume': '13527手', 'amount': '1184万', 'open': '8.75', 'hst_clost': '8.74', 'low': '8.65', 'high': '8.80'}
+{}
+{}
+{'code': '603790', 'name': '雅运股份', 'latest': '17.59', 'chg_pct': '0.46%', 'chg': '0.08', 'colume': '25642手', 'amount': '4499万', 'open': '17.50', 'hst_clost': '17.51', 'low': '17.38', 'high': '17.72'}
+{'code': '600420', 'name': '现代制药', 'latest': '8.81', 'chg_pct': '0.46%', 'chg': '0.04', 'colume': '23276手', 'amount': '2049万', 'open': '8.72', 'hst_clost': '8.77', 'low': '8.70', 'high': '8.86'}
+{'code': '603730', 'name': '岱美股份', 'latest': '26.44', 'chg_pct': '0.46%', 'chg': '0.12', 'colume': '2869手', 'amount': '753万', 'open': '26.55', 'hst_clost': '26.32', 'low': '26.00', 'high': '26.57'}
+{'code': '600795', 'name': '国电电力', 'latest': '2.22', 'chg_pct': '0.45%', 'chg': '0.01', 'colume': '70421手', 'amount': '1558万', 'open': '2.22', 'hst_clost': '2.21', 'low': '2.20', 'high': '2.22'}
+{'code': '600162', 'name': '香江控股', 'latest': '2.23', 'chg_pct': '0.45%', 'chg': '0.01', 'colume': '20014手', 'amount': '445万', 'open': '2.22', 'hst_clost': '2.22', 'low': '2.21', 'high': '2.23'}
+{'code': '603056', 'name': '德邦股份', 'latest': '11.21', 'chg_pct': '0.45%', 'chg': '0.05', 'colume': '4544手', 'amount': '508万', 'open': '11.20', 'hst_clost': '11.16', 'low': '11.13', 'high': '11.23'}
+{'code': '600207', 'name': '安彩高科', 'latest': '4.49', 'chg_pct': '0.45%', 'chg': '0.02', 'colume': '7065手', 'amount': '317万', 'open': '4.46', 'hst_clost': '4.47', 'low': '4.43', 'high': '4.51'}
+{'code': '600508', 'name': '上海能源', 'latest': '8.99', 'chg_pct': '0.45%', 'chg': '0.04', 'colume': '4283手', 'amount': '383万', 'open': '8.95', 'hst_clost': '8.95', 'low': '8.90', 'high': '8.99'}
+{'code': '600555', 'name': '海航创新', 'latest': '2.25', 'chg_pct': '0.45%', 'chg': '0.01', 'colume': '12108手', 'amount': '271万', 'open': '2.24', 'hst_clost': '2.24', 'low': '2.22', 'high': '2.25'}
+{'code': '603297', 'name': '永新光学', 'latest': '31.82', 'chg_pct': '0.44%', 'chg': '0.14', 'colume': '1322手', 'amount': '419万', 'open': '31.51', 'hst_clost': '31.68', 'low': '31.51', 'high': '31.86'}
+{'code': '603813', 'name': '原尚股份', 'latest': '18.20', 'chg_pct': '0.44%', 'chg': '0.08', 'colume': '2404手', 'amount': '437万', 'open': '18.58', 'hst_clost': '18.12', 'low': '18.03', 'high': '18.64'}
+{'code': '603009', 'name': '北特科技', 'latest': '6.98', 'chg_pct': '0.43%', 'chg': '0.03', 'colume': '9369手', 'amount': '649万', 'open': '6.88', 'hst_clost': '6.95', 'low': '6.85', 'high': '6.99'}
+{'code': '600856', 'name': 'ST中天', 'latest': '2.33', 'chg_pct': '0.43%', 'chg': '0.01', 'colume': '37590手', 'amount': '881万', 'open': '2.35', 'hst_clost': '2.32', 'low': '2.28', 'high': '2.40'}
+{'code': '600388', 'name': '龙净环保', 'latest': '9.35', 'chg_pct': '0.43%', 'chg': '0.04', 'colume': '8644手', 'amount': '805万', 'open': '9.29', 'hst_clost': '9.31', 'low': '9.25', 'high': '9.37'}
+{'code': '601678', 'name': '滨化股份', 'latest': '4.68', 'chg_pct': '0.43%', 'chg': '0.02', 'colume': '10659手', 'amount': '497万', 'open': '4.64', 'hst_clost': '4.66', 'low': '4.62', 'high': '4.69'}
+{'code': '603279', 'name': '景津环保', 'latest': '21.05', 'chg_pct': '0.43%', 'chg': '0.09', 'colume': '3994手', 'amount': '839万', 'open': '21.08', 'hst_clost': '20.96', 'low': '20.90', 'high': '21.12'}
+{'code': '600202', 'name': '哈空调', 'latest': '4.70', 'chg_pct': '0.43%', 'chg': '0.02', 'colume': '3042手', 'amount': '142万', 'open': '4.68', 'hst_clost': '4.68', 'low': '4.66', 'high': '4.70'}
+{'code': '600585', 'name': '海螺水泥', 'latest': '44.79', 'chg_pct': '0.43%', 'chg': '0.19', 'colume': '50501手', 'amount': '22434万', 'open': '44.66', 'hst_clost': '44.60', 'low': '44.11', 'high': '44.80'}
+{'code': '600805', 'name': '悦达投资', 'latest': '4.71', 'chg_pct': '0.43%', 'chg': '0.02', 'colume': '5534手', 'amount': '259万', 'open': '4.67', 'hst_clost': '4.69', 'low': '4.67', 'high': '4.71'}
+{'code': '603607', 'name': '京华激光', 'latest': '21.27', 'chg_pct': '0.43%', 'chg': '0.09', 'colume': '8804手', 'amount': '1872万', 'open': '21.22', 'hst_clost': '21.18', 'low': '20.90', 'high': '21.45'}
+{'code': '603669', 'name': '灵康药业', 'latest': '7.13', 'chg_pct': '0.42%', 'chg': '0.03', 'colume': '5863手', 'amount': '420万', 'open': '7.08', 'hst_clost': '7.10', 'low': '7.07', 'high': '7.23'}
+{'code': '600976', 'name': '健民集团', 'latest': '16.69', 'chg_pct': '0.42%', 'chg': '0.07', 'colume': '3200手', 'amount': '530万', 'open': '16.54', 'hst_clost': '16.62', 'low': '16.43', 'high': '16.70'}
+{'code': '601211', 'name': '国泰君安', 'latest': '16.71', 'chg_pct': '0.42%', 'chg': '0.07', 'colume': '53349手', 'amount': '8884万', 'open': '16.57', 'hst_clost': '16.64', 'low': '16.54', 'high': '16.74'}
+{'code': '600594', 'name': '益佰制药', 'latest': '4.78', 'chg_pct': '0.42%', 'chg': '0.02', 'colume': '12041手', 'amount': '573万', 'open': '4.74', 'hst_clost': '4.76', 'low': '4.73', 'high': '4.79'}
+{'code': '601375', 'name': '中原证券', 'latest': '4.78', 'chg_pct': '0.42%', 'chg': '0.02', 'colume': '20815手', 'amount': '991万', 'open': '4.75', 'hst_clost': '4.76', 'low': '4.73', 'high': '4.79'}
+{'code': '600894', 'name': '广日股份', 'latest': '7.19', 'chg_pct': '0.42%', 'chg': '0.03', 'colume': '12136手', 'amount': '871万', 'open': '7.16', 'hst_clost': '7.16', 'low': '7.15', 'high': '7.21'}
+{'code': '603939', 'name': '益丰药房', 'latest': '84.10', 'chg_pct': '0.42%', 'chg': '0.35', 'colume': '7366手', 'amount': '6155万', 'open': '84.30', 'hst_clost': '83.75', 'low': '82.81', 'high': '84.59'}
+{'code': '600744', 'name': '华银电力', 'latest': '2.46', 'chg_pct': '0.41%', 'chg': '0.01', 'colume': '14717手', 'amount': '360万', 'open': '2.43', 'hst_clost': '2.45', 'low': '2.41', 'high': '2.47'}
+{'code': '600028', 'name': '中国石化', 'latest': '4.94', 'chg_pct': '0.41%', 'chg': '0.02', 'colume': '179072手', 'amount': '8819万', 'open': '4.92', 'hst_clost': '4.92', 'low': '4.90', 'high': '4.95'}
+{'code': '603277', 'name': '银都股份', 'latest': '9.90', 'chg_pct': '0.41%', 'chg': '0.04', 'colume': '4836手', 'amount': '477万', 'open': '9.86', 'hst_clost': '9.86', 'low': '9.82', 'high': '9.93'}
+{'code': '603198', 'name': '迎驾贡酒', 'latest': '22.38', 'chg_pct': '0.40%', 'chg': '0.09', 'colume': '13192手', 'amount': '2930万', 'open': '22.22', 'hst_clost': '22.29', 'low': '22.03', 'high': '22.42'}
+{'code': '601137', 'name': '博威合金', 'latest': '10.00', 'chg_pct': '0.40%', 'chg': '0.04', 'colume': '10198手', 'amount': '1015万', 'open': '9.83', 'hst_clost': '9.96', 'low': '9.83', 'high': '10.02'}
+{'code': '600876', 'name': '洛阳玻璃', 'latest': '12.53', 'chg_pct': '0.40%', 'chg': '0.05', 'colume': '23864手', 'amount': '2990万', 'open': '12.39', 'hst_clost': '12.48', 'low': '12.33', 'high': '12.70'}
+{'code': '600149', 'name': 'ST坊展', 'latest': '5.02', 'chg_pct': '0.40%', 'chg': '0.02', 'colume': '3642手', 'amount': '181万', 'open': '4.97', 'hst_clost': '5.00', 'low': '4.95', 'high': '5.06'}
+{'code': '600376', 'name': '首开股份', 'latest': '7.53', 'chg_pct': '0.40%', 'chg': '0.03', 'colume': '20641手', 'amount': '1544万', 'open': '7.52', 'hst_clost': '7.50', 'low': '7.42', 'high': '7.55'}
+{'code': '601518', 'name': '吉林高速', 'latest': '2.52', 'chg_pct': '0.40%', 'chg': '0.01', 'colume': '4066手', 'amount': '102万', 'open': '2.50', 'hst_clost': '2.51', 'low': '2.50', 'high': '2.52'}
+{'code': '600801', 'name': '华新水泥', 'latest': '20.22', 'chg_pct': '0.40%', 'chg': '0.08', 'colume': '49677手', 'amount': '9990万', 'open': '20.16', 'hst_clost': '20.14', 'low': '19.90', 'high': '20.29'}
+{'code': '600863', 'name': '内蒙华电', 'latest': '2.53', 'chg_pct': '0.40%', 'chg': '0.01', 'colume': '60468手', 'amount': '1521万', 'open': '2.52', 'hst_clost': '2.52', 'low': '2.50', 'high': '2.54'}
+{'code': '603612', 'name': '索通发展', 'latest': '10.15', 'chg_pct': '0.40%', 'chg': '0.04', 'colume': '8585手', 'amount': '871万', 'open': '10.28', 'hst_clost': '10.11', 'low': '10.05', 'high': '10.28'}
+{'code': '600511', 'name': '国药股份', 'latest': '25.42', 'chg_pct': '0.40%', 'chg': '0.10', 'colume': '6954手', 'amount': '1763万', 'open': '25.52', 'hst_clost': '25.32', 'low': '25.16', 'high': '25.52'}
+{'code': '600088', 'name': '中视传媒', 'latest': '12.75', 'chg_pct': '0.39%', 'chg': '0.05', 'colume': '9528手', 'amount': '1212万', 'open': '12.87', 'hst_clost': '12.70', 'low': '12.60', 'high': '12.90'}
+{'code': '600677', 'name': '航天通信', 'latest': '7.66', 'chg_pct': '0.39%', 'chg': '0.03', 'colume': '141556手', 'amount': '10750万', 'open': '7.54', 'hst_clost': '7.63', 'low': '7.41', 'high': '7.75'}
+{'code': '601330', 'name': '绿色动力', 'latest': '10.29', 'chg_pct': '0.39%', 'chg': '0.04', 'colume': '25363手', 'amount': '2613万', 'open': '10.24', 'hst_clost': '10.25', 'low': '10.20', 'high': '10.39'}
+{'code': '600839', 'name': '四川长虹', 'latest': '2.58', 'chg_pct': '0.39%', 'chg': '0.01', 'colume': '46862手', 'amount': '1203万', 'open': '2.56', 'hst_clost': '2.57', 'low': '2.55', 'high': '2.59'}
+{'code': '600570', 'name': '恒生电子', 'latest': '77.60', 'chg_pct': '0.39%', 'chg': '0.30', 'colume': '41459手', 'amount': '31965万', 'open': '76.60', 'hst_clost': '77.30', 'low': '76.41', 'high': '77.95'}
+{'code': '600695', 'name': '绿庭投资', 'latest': '5.19', 'chg_pct': '0.39%', 'chg': '0.02', 'colume': '6873手', 'amount': '355万', 'open': '5.16', 'hst_clost': '5.17', 'low': '5.12', 'high': '5.20'}
+{'code': '600808', 'name': '马钢股份', 'latest': '2.60', 'chg_pct': '0.39%', 'chg': '0.01', 'colume': '53841手', 'amount': '1395万', 'open': '2.59', 'hst_clost': '2.59', 'low': '2.58', 'high': '2.60'}
+{'code': '603667', 'name': '五洲新春', 'latest': '7.90', 'chg_pct': '0.38%', 'chg': '0.03', 'colume': '2544手', 'amount': '200万', 'open': '7.87', 'hst_clost': '7.87', 'low': '7.80', 'high': '7.93'}
+{'code': '603488', 'name': '展鹏科技', 'latest': '8.05', 'chg_pct': '0.37%', 'chg': '0.03', 'colume': '1418手', 'amount': '114万', 'open': '7.99', 'hst_clost': '8.02', 'low': '7.96', 'high': '8.06'}
+{'code': '600184', 'name': '光电股份', 'latest': '10.78', 'chg_pct': '0.37%', 'chg': '0.04', 'colume': '3419手', 'amount': '368万', 'open': '10.65', 'hst_clost': '10.74', 'low': '10.65', 'high': '10.81'}
+{}
+{}
+{'code': '600291', 'name': '西水股份', 'latest': '8.18', 'chg_pct': '0.37%', 'chg': '0.03', 'colume': '12969手', 'amount': '1058万', 'open': '8.12', 'hst_clost': '8.15', 'low': '8.11', 'high': '8.19'}
+{'code': '603938', 'name': '三孚股份', 'latest': '16.37', 'chg_pct': '0.37%', 'chg': '0.06', 'colume': '1133手', 'amount': '186万', 'open': '16.57', 'hst_clost': '16.31', 'low': '16.24', 'high': '16.57'}
+{'code': '603088', 'name': '宁波精达', 'latest': '8.21', 'chg_pct': '0.37%', 'chg': '0.03', 'colume': '2168手', 'amount': '177万', 'open': '8.17', 'hst_clost': '8.18', 'low': '8.10', 'high': '8.22'}
+{'code': '600644', 'name': '乐山电力', 'latest': '5.48', 'chg_pct': '0.37%', 'chg': '0.02', 'colume': '5571手', 'amount': '306万', 'open': '5.45', 'hst_clost': '5.46', 'low': '5.43', 'high': '5.54'}
+{'code': '603997', 'name': '继峰股份', 'latest': '8.26', 'chg_pct': '0.37%', 'chg': '0.03', 'colume': '4738手', 'amount': '392万', 'open': '8.23', 'hst_clost': '8.23', 'low': '8.16', 'high': '8.36'}
+{'code': '600292', 'name': '远达环保', 'latest': '5.52', 'chg_pct': '0.36%', 'chg': '0.02', 'colume': '6164手', 'amount': '340万', 'open': '5.47', 'hst_clost': '5.50', 'low': '5.47', 'high': '5.59'}
+{'code': '601999', 'name': '出版传媒', 'latest': '5.52', 'chg_pct': '0.36%', 'chg': '0.02', 'colume': '9275手', 'amount': '513万', 'open': '5.55', 'hst_clost': '5.50', 'low': '5.47', 'high': '5.55'}
+{'code': '603726', 'name': '朗迪集团', 'latest': '11.04', 'chg_pct': '0.36%', 'chg': '0.04', 'colume': '1045手', 'amount': '115万', 'open': '11.01', 'hst_clost': '11.00', 'low': '10.98', 'high': '11.10'}
+{'code': '601225', 'name': '陕西煤业', 'latest': '8.29', 'chg_pct': '0.36%', 'chg': '0.03', 'colume': '42252手', 'amount': '3493万', 'open': '8.25', 'hst_clost': '8.26', 'low': '8.20', 'high': '8.33'}
+{'code': '600059', 'name': '古越龙山', 'latest': '8.31', 'chg_pct': '0.36%', 'chg': '0.03', 'colume': '12139手', 'amount': '1010万', 'open': '8.31', 'hst_clost': '8.28', 'low': '8.27', 'high': '8.37'}
+{'code': '600287', 'name': '江苏舜天', 'latest': '5.54', 'chg_pct': '0.36%', 'chg': '0.02', 'colume': '3742手', 'amount': '207万', 'open': '5.51', 'hst_clost': '5.52', 'low': '5.51', 'high': '5.55'}
+{'code': '601579', 'name': '会稽山', 'latest': '8.35', 'chg_pct': '0.36%', 'chg': '0.03', 'colume': '1793手', 'amount': '149万', 'open': '8.32', 'hst_clost': '8.32', 'low': '8.28', 'high': '8.35'}
+{'code': '600017', 'name': '日照港', 'latest': '2.79', 'chg_pct': '0.36%', 'chg': '0.01', 'colume': '21342手', 'amount': '593万', 'open': '2.78', 'hst_clost': '2.78', 'low': '2.77', 'high': '2.79'}
+{'code': '603301', 'name': '振德医疗', 'latest': '19.58', 'chg_pct': '0.36%', 'chg': '0.07', 'colume': '2093手', 'amount': '408万', 'open': '19.40', 'hst_clost': '19.51', 'low': '19.40', 'high': '19.60'}
+{'code': '603822', 'name': '嘉澳环保', 'latest': '22.36', 'chg_pct': '0.36%', 'chg': '0.08', 'colume': '897手', 'amount': '200万', 'open': '22.43', 'hst_clost': '22.28', 'low': '22.12', 'high': '22.43'}
+{'code': '600399', 'name': 'ST抚钢', 'latest': '2.80', 'chg_pct': '0.36%', 'chg': '0.01', 'colume': '9778手', 'amount': '273万', 'open': '2.79', 'hst_clost': '2.79', 'low': '2.77', 'high': '2.81'}
+{'code': '601128', 'name': '常熟银行', 'latest': '8.45', 'chg_pct': '0.36%', 'chg': '0.03', 'colume': '53518手', 'amount': '4534万', 'open': '8.41', 'hst_clost': '8.42', 'low': '8.41', 'high': '8.56'}
+{'code': '603896', 'name': '寿仙谷', 'latest': '28.22', 'chg_pct': '0.36%', 'chg': '0.10', 'colume': '3147手', 'amount': '887万', 'open': '28.00', 'hst_clost': '28.12', 'low': '27.97', 'high': '28.51'}
+{'code': '600751', 'name': '海航科技', 'latest': '2.83', 'chg_pct': '0.36%', 'chg': '0.01', 'colume': '59781手', 'amount': '1679万', 'open': '2.80', 'hst_clost': '2.82', 'low': '2.78', 'high': '2.84'}
+{'code': '601908', 'name': '京运通', 'latest': '2.83', 'chg_pct': '0.36%', 'chg': '0.01', 'colume': '7987手', 'amount': '225万', 'open': '2.83', 'hst_clost': '2.82', 'low': '2.81', 'high': '2.84'}
+{'code': '603309', 'name': '维力医疗', 'latest': '14.14', 'chg_pct': '0.36%', 'chg': '0.05', 'colume': '3112手', 'amount': '438万', 'open': '14.10', 'hst_clost': '14.09', 'low': '14.01', 'high': '14.15'}
+{'code': '603099', 'name': '长白山', 'latest': '8.51', 'chg_pct': '0.35%', 'chg': '0.03', 'colume': '2853手', 'amount': '242万', 'open': '8.49', 'hst_clost': '8.48', 'low': '8.44', 'high': '8.55'}
+{'code': '603315', 'name': '福鞍股份', 'latest': '11.38', 'chg_pct': '0.35%', 'chg': '0.04', 'colume': '2460手', 'amount': '279万', 'open': '11.26', 'hst_clost': '11.34', 'low': '11.18', 'high': '11.45'}
+{'code': '600026', 'name': '中远海能', 'latest': '5.72', 'chg_pct': '0.35%', 'chg': '0.02', 'colume': '45737手', 'amount': '2599万', 'open': '5.66', 'hst_clost': '5.70', 'low': '5.64', 'high': '5.74'}
+{'code': '600820', 'name': '隧道股份', 'latest': '5.76', 'chg_pct': '0.35%', 'chg': '0.02', 'colume': '17242手', 'amount': '987万', 'open': '5.74', 'hst_clost': '5.74', 'low': '5.71', 'high': '5.76'}
+{'code': '603700', 'name': '宁波水表', 'latest': '23.13', 'chg_pct': '0.35%', 'chg': '0.08', 'colume': '1563手', 'amount': '360万', 'open': '23.04', 'hst_clost': '23.05', 'low': '22.81', 'high': '23.17'}
+{'code': '600225', 'name': '天津松江', 'latest': '2.91', 'chg_pct': '0.35%', 'chg': '0.01', 'colume': '13979手', 'amount': '404万', 'open': '2.88', 'hst_clost': '2.90', 'low': '2.86', 'high': '2.92'}
+{'code': '600393', 'name': '粤泰股份', 'latest': '2.91', 'chg_pct': '0.35%', 'chg': '0.01', 'colume': '140433手', 'amount': '4079万', 'open': '2.88', 'hst_clost': '2.90', 'low': '2.87', 'high': '2.94'}
+{'code': '600190', 'name': '锦州港', 'latest': '2.93', 'chg_pct': '0.34%', 'chg': '0.01', 'colume': '3113手', 'amount': '91万', 'open': '2.92', 'hst_clost': '2.92', 'low': '2.91', 'high': '2.93'}
+{'code': '600982', 'name': '宁波热电', 'latest': '2.93', 'chg_pct': '0.34%', 'chg': '0.01', 'colume': '2319手', 'amount': '68万', 'open': '2.92', 'hst_clost': '2.92', 'low': '2.90', 'high': '2.93'}
+{'code': '601333', 'name': '广深铁路', 'latest': '2.95', 'chg_pct': '0.34%', 'chg': '0.01', 'colume': '47944手', 'amount': '1407万', 'open': '2.94', 'hst_clost': '2.94', 'low': '2.92', 'high': '2.95'}
+{'code': '601010', 'name': '文峰股份', 'latest': '2.96', 'chg_pct': '0.34%', 'chg': '0.01', 'colume': '5800手', 'amount': '171万', 'open': '2.94', 'hst_clost': '2.95', 'low': '2.93', 'high': '2.96'}
+{'code': '601216', 'name': '君正集团', 'latest': '2.97', 'chg_pct': '0.34%', 'chg': '0.01', 'colume': '49986手', 'amount': '1480万', 'open': '2.95', 'hst_clost': '2.96', 'low': '2.94', 'high': '2.97'}
+{'code': '600537', 'name': '亿晶光电', 'latest': '2.98', 'chg_pct': '0.34%', 'chg': '0.01', 'colume': '6258手', 'amount': '187万', 'open': '2.96', 'hst_clost': '2.97', 'low': '2.96', 'high': '3.00'}
+{'code': '600578', 'name': '京能电力', 'latest': '2.98', 'chg_pct': '0.34%', 'chg': '0.01', 'colume': '10939手', 'amount': '326万', 'open': '2.98', 'hst_clost': '2.97', 'low': '2.96', 'high': '2.99'}
+{'code': '603727', 'name': '博迈科', 'latest': '14.89', 'chg_pct': '0.34%', 'chg': '0.05', 'colume': '1719手', 'amount': '256万', 'open': '14.94', 'hst_clost': '14.84', 'low': '14.84', 'high': '15.00'}
+{'code': '600909', 'name': '华安证券', 'latest': '5.97', 'chg_pct': '0.34%', 'chg': '0.02', 'colume': '28467手', 'amount': '1692万', 'open': '5.93', 'hst_clost': '5.95', 'low': '5.91', 'high': '5.98'}
+{'code': '603535', 'name': '嘉诚国际', 'latest': '17.96', 'chg_pct': '0.34%', 'chg': '0.06', 'colume': '2019手', 'amount': '363万', 'open': '17.86', 'hst_clost': '17.90', 'low': '17.81', 'high': '18.05'}
+{'code': '600970', 'name': '中材国际', 'latest': '6.03', 'chg_pct': '0.33%', 'chg': '0.02', 'colume': '26159手', 'amount': '1568万', 'open': '6.00', 'hst_clost': '6.01', 'low': '5.96', 'high': '6.04'}
+{'code': '600735', 'name': '新华锦', 'latest': '6.13', 'chg_pct': '0.33%', 'chg': '0.02', 'colume': '20060手', 'amount': '1225万', 'open': '6.07', 'hst_clost': '6.11', 'low': '6.07', 'high': '6.16'}
+{'code': '601718', 'name': '际华集团', 'latest': '3.11', 'chg_pct': '0.32%', 'chg': '0.01', 'colume': '28814手', 'amount': '893万', 'open': '3.10', 'hst_clost': '3.10', 'low': '3.08', 'high': '3.13'}
+{'code': '603222', 'name': '济民制药', 'latest': '49.70', 'chg_pct': '0.32%', 'chg': '0.16', 'colume': '1020手', 'amount': '506万', 'open': '49.40', 'hst_clost': '49.54', 'low': '49.36', 'high': '50.06'}
+{'code': '603232', 'name': '格尔软件', 'latest': '31.24', 'chg_pct': '0.32%', 'chg': '0.10', 'colume': '3490手', 'amount': '1083万', 'open': '30.97', 'hst_clost': '31.14', 'low': '30.66', 'high': '31.47'}
+{'code': '600339', 'name': '中油工程', 'latest': '3.15', 'chg_pct': '0.32%', 'chg': '0.01', 'colume': '44087手', 'amount': '1379万', 'open': '3.14', 'hst_clost': '3.14', 'low': '3.11', 'high': '3.15'}
+{'code': '603090', 'name': '宏盛股份', 'latest': '15.80', 'chg_pct': '0.32%', 'chg': '0.05', 'colume': '1202手', 'amount': '189万', 'open': '15.80', 'hst_clost': '15.75', 'low': '15.68', 'high': '15.87'}
+{'code': '603817', 'name': '海峡环保', 'latest': '6.34', 'chg_pct': '0.32%', 'chg': '0.02', 'colume': '2011手', 'amount': '127万', 'open': '6.32', 'hst_clost': '6.32', 'low': '6.28', 'high': '6.34'}
+{'code': '603826', 'name': '坤彩科技', 'latest': '15.99', 'chg_pct': '0.31%', 'chg': '0.05', 'colume': '7678手', 'amount': '1231万', 'open': '15.94', 'hst_clost': '15.94', 'low': '15.91', 'high': '16.18'}
+{'code': '600098', 'name': '广州发展', 'latest': '6.41', 'chg_pct': '0.31%', 'chg': '0.02', 'colume': '4033手', 'amount': '258万', 'open': '6.38', 'hst_clost': '6.39', 'low': '6.36', 'high': '6.42'}
+{'code': '600481', 'name': '双良节能', 'latest': '3.20', 'chg_pct': '0.31%', 'chg': '0.01', 'colume': '7273手', 'amount': '232万', 'open': '3.20', 'hst_clost': '3.19', 'low': '3.18', 'high': '3.22'}
+{'code': '600008', 'name': '首创股份', 'latest': '3.23', 'chg_pct': '0.31%', 'chg': '0.01', 'colume': '16309手', 'amount': '525万', 'open': '3.21', 'hst_clost': '3.22', 'low': '3.20', 'high': '3.24'}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
